@@ -1,0 +1,3926 @@
+fileFormatVersion: 2
+guid: 966aacd525758be428f0000252151190
+timeCreated: 1497165853
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - MapleStory - King Slime_0
+    21300002: PC Computer - MapleStory - King Slime_1
+    21300004: PC Computer - MapleStory - King Slime_2
+    21300006: PC Computer - MapleStory - King Slime_3
+    21300008: PC Computer - MapleStory - King Slime_4
+    21300010: PC Computer - MapleStory - King Slime_5
+    21300012: PC Computer - MapleStory - King Slime_6
+    21300014: PC Computer - MapleStory - King Slime_7
+    21300016: PC Computer - MapleStory - King Slime_8
+    21300018: PC Computer - MapleStory - King Slime_9
+    21300020: PC Computer - MapleStory - King Slime_10
+    21300022: PC Computer - MapleStory - King Slime_11
+    21300024: PC Computer - MapleStory - King Slime_12
+    21300026: PC Computer - MapleStory - King Slime_13
+    21300028: PC Computer - MapleStory - King Slime_14
+    21300030: PC Computer - MapleStory - King Slime_15
+    21300032: PC Computer - MapleStory - King Slime_16
+    21300034: PC Computer - MapleStory - King Slime_17
+    21300036: PC Computer - MapleStory - King Slime_18
+    21300038: PC Computer - MapleStory - King Slime_19
+    21300040: PC Computer - MapleStory - King Slime_20
+    21300042: PC Computer - MapleStory - King Slime_21
+    21300044: PC Computer - MapleStory - King Slime_22
+    21300046: PC Computer - MapleStory - King Slime_23
+    21300048: PC Computer - MapleStory - King Slime_24
+    21300050: PC Computer - MapleStory - King Slime_25
+    21300052: PC Computer - MapleStory - King Slime_26
+    21300054: PC Computer - MapleStory - King Slime_27
+    21300056: PC Computer - MapleStory - King Slime_28
+    21300058: PC Computer - MapleStory - King Slime_29
+    21300060: PC Computer - MapleStory - King Slime_30
+    21300062: PC Computer - MapleStory - King Slime_31
+    21300064: PC Computer - MapleStory - King Slime_32
+    21300066: PC Computer - MapleStory - King Slime_33
+    21300068: PC Computer - MapleStory - King Slime_34
+    21300070: PC Computer - MapleStory - King Slime_35
+    21300072: PC Computer - MapleStory - King Slime_36
+    21300074: PC Computer - MapleStory - King Slime_37
+    21300076: PC Computer - MapleStory - King Slime_38
+    21300078: PC Computer - MapleStory - King Slime_39
+    21300080: PC Computer - MapleStory - King Slime_40
+    21300082: PC Computer - MapleStory - King Slime_41
+    21300084: PC Computer - MapleStory - King Slime_42
+    21300086: PC Computer - MapleStory - King Slime_43
+    21300088: PC Computer - MapleStory - King Slime_44
+    21300090: PC Computer - MapleStory - King Slime_45
+    21300092: PC Computer - MapleStory - King Slime_46
+    21300094: PC Computer - MapleStory - King Slime_47
+    21300096: PC Computer - MapleStory - King Slime_48
+    21300098: PC Computer - MapleStory - King Slime_49
+    21300100: PC Computer - MapleStory - King Slime_50
+    21300102: PC Computer - MapleStory - King Slime_51
+    21300104: PC Computer - MapleStory - King Slime_52
+    21300106: PC Computer - MapleStory - King Slime_53
+    21300108: PC Computer - MapleStory - King Slime_54
+    21300110: PC Computer - MapleStory - King Slime_55
+    21300112: PC Computer - MapleStory - King Slime_56
+    21300114: PC Computer - MapleStory - King Slime_57
+    21300116: PC Computer - MapleStory - King Slime_58
+    21300118: PC Computer - MapleStory - King Slime_59
+    21300120: PC Computer - MapleStory - King Slime_60
+    21300122: PC Computer - MapleStory - King Slime_61
+    21300124: PC Computer - MapleStory - King Slime_62
+    21300126: PC Computer - MapleStory - King Slime_63
+    21300128: PC Computer - MapleStory - King Slime_64
+    21300130: PC Computer - MapleStory - King Slime_65
+    21300132: PC Computer - MapleStory - King Slime_66
+    21300134: PC Computer - MapleStory - King Slime_67
+    21300136: PC Computer - MapleStory - King Slime_68
+    21300138: PC Computer - MapleStory - King Slime_69
+    21300140: PC Computer - MapleStory - King Slime_70
+    21300142: PC Computer - MapleStory - King Slime_71
+    21300144: PC Computer - MapleStory - King Slime_72
+    21300146: PC Computer - MapleStory - King Slime_73
+    21300148: PC Computer - MapleStory - King Slime_74
+    21300150: PC Computer - MapleStory - King Slime_75
+    21300152: PC Computer - MapleStory - King Slime_76
+    21300154: PC Computer - MapleStory - King Slime_77
+    21300156: PC Computer - MapleStory - King Slime_78
+    21300158: PC Computer - MapleStory - King Slime_79
+    21300160: PC Computer - MapleStory - King Slime_80
+    21300162: PC Computer - MapleStory - King Slime_81
+    21300164: PC Computer - MapleStory - King Slime_82
+    21300166: PC Computer - MapleStory - King Slime_83
+    21300168: PC Computer - MapleStory - King Slime_84
+    21300170: PC Computer - MapleStory - King Slime_85
+    21300172: PC Computer - MapleStory - King Slime_86
+    21300174: PC Computer - MapleStory - King Slime_87
+    21300176: PC Computer - MapleStory - King Slime_88
+    21300178: PC Computer - MapleStory - King Slime_89
+    21300180: PC Computer - MapleStory - King Slime_90
+    21300182: PC Computer - MapleStory - King Slime_91
+    21300184: PC Computer - MapleStory - King Slime_92
+    21300186: PC Computer - MapleStory - King Slime_93
+    21300188: PC Computer - MapleStory - King Slime_94
+    21300190: PC Computer - MapleStory - King Slime_95
+    21300192: PC Computer - MapleStory - King Slime_96
+    21300194: PC Computer - MapleStory - King Slime_97
+    21300196: PC Computer - MapleStory - King Slime_98
+    21300198: PC Computer - MapleStory - King Slime_99
+    21300200: PC Computer - MapleStory - King Slime_100
+    21300202: PC Computer - MapleStory - King Slime_101
+    21300204: PC Computer - MapleStory - King Slime_102
+    21300206: PC Computer - MapleStory - King Slime_103
+    21300208: PC Computer - MapleStory - King Slime_104
+    21300210: PC Computer - MapleStory - King Slime_105
+    21300212: PC Computer - MapleStory - King Slime_106
+    21300214: PC Computer - MapleStory - King Slime_107
+    21300216: PC Computer - MapleStory - King Slime_108
+    21300218: PC Computer - MapleStory - King Slime_109
+    21300220: PC Computer - MapleStory - King Slime_110
+    21300222: PC Computer - MapleStory - King Slime_111
+    21300224: PC Computer - MapleStory - King Slime_112
+    21300226: PC Computer - MapleStory - King Slime_113
+    21300228: PC Computer - MapleStory - King Slime_114
+    21300230: PC Computer - MapleStory - King Slime_115
+    21300232: PC Computer - MapleStory - King Slime_116
+    21300234: PC Computer - MapleStory - King Slime_117
+    21300236: PC Computer - MapleStory - King Slime_118
+    21300238: PC Computer - MapleStory - King Slime_119
+    21300240: PC Computer - MapleStory - King Slime_120
+    21300242: PC Computer - MapleStory - King Slime_121
+    21300244: PC Computer - MapleStory - King Slime_122
+    21300246: PC Computer - MapleStory - King Slime_123
+    21300248: PC Computer - MapleStory - King Slime_124
+    21300250: PC Computer - MapleStory - King Slime_125
+    21300252: PC Computer - MapleStory - King Slime_126
+    21300254: PC Computer - MapleStory - King Slime_127
+    21300256: PC Computer - MapleStory - King Slime_128
+    21300258: PC Computer - MapleStory - King Slime_129
+    21300260: PC Computer - MapleStory - King Slime_130
+    21300262: PC Computer - MapleStory - King Slime_131
+    21300264: PC Computer - MapleStory - King Slime_132
+    21300266: PC Computer - MapleStory - King Slime_133
+    21300268: PC Computer - MapleStory - King Slime_134
+    21300270: PC Computer - MapleStory - King Slime_135
+    21300272: PC Computer - MapleStory - King Slime_136
+    21300274: PC Computer - MapleStory - King Slime_137
+    21300276: PC Computer - MapleStory - King Slime_138
+    21300278: PC Computer - MapleStory - King Slime_139
+    21300280: PC Computer - MapleStory - King Slime_140
+    21300282: PC Computer - MapleStory - King Slime_141
+    21300284: PC Computer - MapleStory - King Slime_142
+    21300286: PC Computer - MapleStory - King Slime_143
+    21300288: PC Computer - MapleStory - King Slime_144
+    21300290: PC Computer - MapleStory - King Slime_145
+    21300292: PC Computer - MapleStory - King Slime_146
+    21300294: PC Computer - MapleStory - King Slime_147
+    21300296: PC Computer - MapleStory - King Slime_148
+    21300298: PC Computer - MapleStory - King Slime_149
+    21300300: PC Computer - MapleStory - King Slime_150
+    21300302: PC Computer - MapleStory - King Slime_151
+    21300304: PC Computer - MapleStory - King Slime_152
+    21300306: PC Computer - MapleStory - King Slime_153
+    21300308: PC Computer - MapleStory - King Slime_154
+    21300310: PC Computer - MapleStory - King Slime_155
+    21300312: PC Computer - MapleStory - King Slime_156
+    21300314: PC Computer - MapleStory - King Slime_157
+    21300316: PC Computer - MapleStory - King Slime_158
+    21300318: PC Computer - MapleStory - King Slime_159
+    21300320: PC Computer - MapleStory - King Slime_160
+    21300322: PC Computer - MapleStory - King Slime_161
+    21300324: PC Computer - MapleStory - King Slime_162
+    21300326: PC Computer - MapleStory - King Slime_163
+    21300328: PC Computer - MapleStory - King Slime_164
+    21300330: PC Computer - MapleStory - King Slime_165
+    21300332: PC Computer - MapleStory - King Slime_166
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_0
+      rect:
+        serializedVersion: 2
+        x: 2402
+        y: 950
+        width: 71
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.833988, y: 17}
+        - {x: -35.5, y: 17}
+        - {x: -35.5, y: -12.759419}
+        - {x: -10.834957, y: -17}
+        - {x: 35.5, y: -17}
+        - {x: 35.5, y: 13.702845}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_1
+      rect:
+        serializedVersion: 2
+        x: 2477
+        y: 957
+        width: 80
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 13.5}
+        - {x: -40, y: -13.5}
+        - {x: 40, y: -13.5}
+        - {x: 40, y: 11.363189}
+        - {x: 25.273464, y: 13.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_2
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 957
+        width: 67
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.292007, y: 13.5}
+        - {x: -33.292007, y: -13.5}
+        - {x: 33.5, y: -13.5}
+        - {x: 33.5, y: 11.363189}
+        - {x: 24.267561, y: 13.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_3
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 950
+        width: 155
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 17}
+        - {x: -77.5, y: -14.316024}
+        - {x: -68.299194, y: -17}
+        - {x: 73.26623, y: -17}
+        - {x: 77.5, y: -3.419797}
+        - {x: 77.5, y: 17}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_4
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 947
+        width: 184
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.91742, y: 18.5}
+        - {x: 3.027772, y: 13.815999}
+        - {x: -1.6392202, y: 9.146188}
+        - {x: -1.6392202, y: 6.03298}
+        - {x: -1.6392202, y: 9.146188}
+        - {x: -0.083556175, y: 18.5}
+        - {x: -91.86774, y: 18.5}
+        - {x: -91.86774, y: -18.5}
+        - {x: 92, y: -18.5}
+        - {x: 92, y: 12.259396}
+        - {x: 90.14496, y: 18.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_5
+      rect:
+        serializedVersion: 2
+        x: 2974
+        y: 950
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 17}
+        - {x: -17.5, y: -14.316024}
+        - {x: -8.208065, y: -17}
+        - {x: 10.459904, y: -17}
+        - {x: 17.5, y: -1.8631932}
+        - {x: 17.5, y: 12.146241}
+        - {x: 10.459904, y: 17}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_6
+      rect:
+        serializedVersion: 2
+        x: 3011
+        y: 950
+        width: 163
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63.01655, y: 17}
+        - {x: -81.5, y: 17}
+        - {x: -81.5, y: -12.759419}
+        - {x: -73.88189, y: -17}
+        - {x: 81.5, y: -17}
+        - {x: 81.5, y: 7.4764295}
+        - {x: 75.46186, y: 13.702845}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_7
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 915
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.408232, y: 13}
+        - {x: -21.408232, y: -12.735858}
+        - {x: 21.5, y: -12.735858}
+        - {x: 21.5, y: 13}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_8
+      rect:
+        serializedVersion: 2
+        x: 2692
+        y: 915
+        width: 79
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 7.4999914}
+        - {x: -39.5, y: -11.179255}
+        - {x: -38.19049, y: -12.735858}
+        - {x: 39.5, y: -12.735858}
+        - {x: 39.5, y: 13}
+        - {x: -21.078184, y: 13}
+        - {x: -38.19049, y: 13}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_9
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 915
+        width: 94
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.30753, y: 13}
+        - {x: -46.97452, y: 9.056596}
+        - {x: -46.97452, y: -12.735858}
+        - {x: 47, y: -12.735858}
+        - {x: 47, y: 13}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_10
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 741
+        width: 212
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60.334965, y: 75}
+        - {x: -14.33691, y: 75}
+        - {x: -99.89843, y: 28.853748}
+        - {x: -106, y: 21.070728}
+        - {x: -106, y: -66.09908}
+        - {x: -82.786125, y: -75}
+        - {x: 69.668945, y: -75}
+        - {x: 105.44922, y: -55.202858}
+        - {x: 106, y: -52.08965}
+        - {x: 106, y: 3.9480865}
+      - - {x: 40.111332, y: 16.400917}
+        - {x: 30.777348, y: 25.74054}
+        - {x: 19.8877, y: 35.080162}
+        - {x: 37.000004, y: 30.41035}
+        - {x: 38.555668, y: 31.966955}
+        - {x: 38.555668, y: 16.400917}
+        - {x: 41.666996, y: 11.731106}
+        - {x: 41.666996, y: 13.287709}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_11
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 743
+        width: 225
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -112.5, y: -71.5}
+        - {x: 112.5, y: -71.5}
+        - {x: 112.5, y: 23.070732}
+        - {x: 74.097664, y: 71.5}
+        - {x: -44.132805, y: 71.5}
+        - {x: -100.13671, y: 38.636772}
+        - {x: -112.5, y: 7.5046945}
+      - - {x: 36.761726, y: 19.957525}
+        - {x: 32.094734, y: 24.627337}
+        - {x: 38.31739, y: 12.174506}
+        - {x: 38.31739, y: 13.73111}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_12
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 796
+        width: 85
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: 14}
+        - {x: -42.5, y: -14}
+        - {x: 42.5, y: -14}
+        - {x: 42.5, y: 14}
+      - - {x: 16.404783, y: 4.4669704}
+        - {x: 14.849119, y: 6.0235744}
+        - {x: 10.182127, y: 1.3537626}
+        - {x: 10.182127, y: -1.759445}
+        - {x: 11.737791, y: -3.3160489}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_13
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 498
+        width: 225
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 112.5, y: 51.254723}
+        - {x: 108.00586, y: 65.26416}
+        - {x: 25.555668, y: 78.5}
+        - {x: -70.8955, y: 78.5}
+        - {x: -112.5, y: 6.1132135}
+        - {x: -112.5, y: -67.047165}
+        - {x: -94.23046, y: -77.94339}
+        - {x: 24.000004, y: -77.94339}
+        - {x: 53.55762, y: -70.16037}
+        - {x: 53.55762, y: -4.783013}
+        - {x: 36.445316, y: 12.339629}
+        - {x: 112.5, y: 23.235855}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_14
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 498
+        width: 177
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.534683, y: 93.5}
+        - {x: -63.804184, y: 52.81133}
+        - {x: -88.5, y: -4.783013}
+        - {x: -88.5, y: -85.72641}
+        - {x: -73.13817, y: -93.5}
+        - {x: 62.204605, y: -93.5}
+        - {x: 74.64992, y: -91.95283}
+        - {x: 88.5, y: -40.5849}
+        - {x: 88.5, y: 93.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_15
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 514
+        width: 182
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.40821, y: -89}
+        - {x: 36.963875, y: -89}
+        - {x: 43.18653, y: -79.84435}
+        - {x: 43.18653, y: -73.617935}
+        - {x: 75.85548, y: -64.27831}
+        - {x: 91, y: -56.495293}
+        - {x: 91, y: -9.797179}
+        - {x: 47.853523, y: 89}
+        - {x: -9.706047, y: 89}
+        - {x: -90.60058, y: 43.12735}
+        - {x: -90.60058, y: -65.834915}
+        - {x: -34.596672, y: -89}
+        - {x: 8.961922, y: -89}
+        - {x: 12.07325, y: -87.62737}
+        - {x: 18.295906, y: -81.400955}
+        - {x: 24.518562, y: -84.51416}
+      - - {x: 19.85157, y: 60.249992}
+        - {x: 15.184578, y: 71.14622}
+        - {x: 27.62989, y: 71.14622}
+        - {x: 35.40821, y: 41.570747}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_16
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 546
+        width: 236
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.389153, y: 82}
+        - {x: -117.72704, y: 23.759443}
+        - {x: -117.72704, y: -82}
+        - {x: 96.9546, y: -82}
+        - {x: 118, y: -21.382069}
+        - {x: 118, y: 64.23114}
+        - {x: 61.174324, y: 82}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_17
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 498
+        width: 206
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.967316, y: -3.2264092}
+        - {x: -102.967316, y: -99.73585}
+        - {x: -95.188995, y: -116.85849}
+        - {x: -85.85501, y: -124.64151}
+        - {x: 80.601036, y: -124.64151}
+        - {x: 89.93502, y: -123.0849}
+        - {x: 103, y: -65.49056}
+        - {x: 103, y: 125}
+        - {x: 49.48776, y: 125}
+        - {x: 37.042446, y: 121.301895}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_18
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 498
+        width: 193
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56.914574, y: 110}
+        - {x: 49.136253, y: 92.50472}
+        - {x: -11.534645, y: 48.91982}
+        - {x: -96.5, y: -30.466976}
+        - {x: -96.5, y: -86.504715}
+        - {x: -87.762184, y: -109.85377}
+        - {x: 61.581566, y: -109.85377}
+        - {x: 96.5, y: -86.504715}
+        - {x: 96.5, y: 110}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_19
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 498
+        width: 211
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.9941595, y: 74.5}
+        - {x: -58.998066, y: 41.1368}
+        - {x: -105.5, y: 8.448119}
+        - {x: -105.5, y: -47.58962}
+        - {x: -79.221695, y: -74.05188}
+        - {x: 39.00877, y: -74.05188}
+        - {x: 105.5, y: -60.04245}
+        - {x: 105.5, y: -5.561315}
+        - {x: 45.231426, y: 74.5}
+      - - {x: 29.674786, y: 25.57076}
+        - {x: 35.89744, y: 28.68397}
+        - {x: 39.00877, y: 39.580196}
+        - {x: 39.00877, y: 14.674535}
+        - {x: 40.564434, y: 13.117931}
+        - {x: 42.1201, y: 14.674535}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_20
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 560
+        width: 350
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.686516, y: 13}
+        - {x: -100.686516, y: 7.405649}
+        - {x: -103.797844, y: 2.7358377}
+        - {x: -100.686516, y: 5.8490453}
+        - {x: -100.686516, y: 13}
+        - {x: -175, y: 13}
+        - {x: -175, y: -0.37737003}
+        - {x: -170.6914, y: -12.8302}
+        - {x: 174.66602, y: -12.8302}
+        - {x: 175, y: -9.716993}
+        - {x: 175, y: 13}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_21
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 524
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.6127446, y: 3.5}
+        - {x: -2.6127446, y: -3.5}
+        - {x: 3, y: -3.5}
+        - {x: 3, y: -2.132112}
+        - {x: 3, y: 3.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_22
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 525
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.9497228, y: 3.5}
+        - {x: -2.9497228, y: -3.4670157}
+        - {x: 3, y: -3.4670157}
+        - {x: 3, y: -1.910412}
+        - {x: 3, y: 2.7593994}
+        - {x: 3, y: 3.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_23
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 504
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.932125, y: 5}
+        - {x: -3.932125, y: -5}
+        - {x: 4.5, y: -5}
+        - {x: 4.5, y: 5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_24
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 498
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 8}
+        - {x: -8.5, y: -4.783013}
+        - {x: -7.4902415, y: -7.8962207}
+        - {x: 8.5, y: -7.8962207}
+        - {x: 8.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_25
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 498
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 5}
+        - {x: -5, y: -4.783013}
+        - {x: 5, y: -4.783013}
+        - {x: 5, y: 5}
+        - {x: 5, y: 5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_26
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 253
+        width: 186
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.4541, y: 111}
+        - {x: -93, y: 38.188667}
+        - {x: -93, y: -111}
+        - {x: 67.22266, y: -111}
+        - {x: 93, y: -97.23586}
+        - {x: 93, y: 41.301876}
+        - {x: -10.560545, y: 111}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_27
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 253
+        width: 187
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64.6499, y: -11.622655}
+        - {x: 93.5, y: 5.4999876}
+        - {x: 93.5, y: 41.301876}
+        - {x: -6.9106417, y: 100.45282}
+        - {x: -28.689938, y: 111}
+        - {x: -61.358883, y: 111}
+        - {x: -78.47118, y: 87.99999}
+        - {x: -93.5, y: 13.283007}
+        - {x: -93.5, y: -111}
+        - {x: 28.86963, y: -111}
+        - {x: 53.760258, y: -81.66982}
+        - {x: 53.760258, y: -10.066051}
+        - {x: 30.425295, y: 7.0565915}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_28
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 253
+        width: 185
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75.41211, y: -11.622655}
+        - {x: 92.5, y: 3.9433837}
+        - {x: 92.5, y: 42.85848}
+        - {x: -10.149417, y: 111}
+        - {x: -72.37598, y: 111}
+        - {x: -92.5, y: 78.66037}
+        - {x: -92.5, y: -108.13209}
+        - {x: -81.70996, y: -111}
+        - {x: 33.409176, y: -111}
+        - {x: 48.965816, y: -92.566055}
+        - {x: 59.855465, y: -16.292465}
+        - {x: 25.630856, y: 16.396214}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_29
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 230
+        width: 212
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58.395985, y: -64.976425}
+        - {x: 59.95165, y: -71.20284}
+        - {x: 63.062977, y: -74.31605}
+        - {x: 72.396965, y: -74.31605}
+        - {x: 92.6206, y: -44.740578}
+        - {x: 80.175285, y: 11.297158}
+        - {x: 61.507313, y: 19.080177}
+        - {x: 55.284657, y: 19.080177}
+        - {x: 49.062, y: 20.636782}
+        - {x: 75.50829, y: 26.863197}
+        - {x: 77.06396, y: 15.96697}
+        - {x: 80.175285, y: 12.853763}
+        - {x: 103.51025, y: 12.853763}
+        - {x: 106, y: 14.410366}
+        - {x: 106, y: 65.77829}
+        - {x: 21.06005, y: 122.5}
+        - {x: -72.27979, y: 122.5}
+        - {x: -76.946785, y: 122.5}
+        - {x: -106, y: 64.22169}
+        - {x: -106, y: -122.5}
+        - {x: 66.17431, y: -122.5}
+        - {x: 67.72997, y: -89.88209}
+        - {x: 66.17431, y: -75.87266}
+        - {x: 53.728992, y: -68.08964}
+      - - {x: -11.608896, y: -102.33492}
+        - {x: -14.720224, y: -102.33492}
+      - - {x: -64.50147, y: 19.080177}
+        - {x: -66.05714, y: 17.523573}
+        - {x: -66.05714, y: 19.080177}
+      - - {x: -24.054209, y: 64.22169}
+        - {x: -45.833504, y: 78.231125}
+        - {x: -38.055183, y: 110.9198}
+        - {x: -10.053232, y: 95.35377}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_30
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 219
+        width: 231
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.627888, y: 128}
+        - {x: -62.628864, y: 82.01886}
+        - {x: -112.41012, y: 55.556595}
+        - {x: -115.5, y: 53.999992}
+        - {x: -115.5, y: -104.7736}
+        - {x: -107.743126, y: -128}
+        - {x: 68.04691, y: -128}
+        - {x: 115.5, y: -96.99058}
+        - {x: 115.5, y: 69.56603}
+        - {x: 30.710978, y: 128}
+      - - {x: -99.964806, y: -84.53775}
+        - {x: -103.07613, y: -87.650955}
+        - {x: -103.07613, y: -100.10378}
+        - {x: -99.964806, y: -101.66039}
+        - {x: -87.51949, y: -101.66039}
+        - {x: -87.51949, y: -87.650955}
+        - {x: -95.29781, y: -84.53775}
+      - - {x: 26.043985, y: -98.54718}
+        - {x: 29.155313, y: -95.433975}
+        - {x: 24.488321, y: -95.433975}
+        - {x: 22.932657, y: -96.99058}
+      - - {x: 72.713905, y: -54.962276}
+        - {x: 75.82523, y: -54.962276}
+        - {x: 74.26957, y: -53.40567}
+      - - {x: 106.938515, y: -44.066048}
+        - {x: 106.938515, y: -50.292465}
+        - {x: 110.04984, y: -53.40567}
+        - {x: 115.5, y: -53.40567}
+        - {x: 115.5, y: -39.396236}
+        - {x: 111.60551, y: -39.396236}
+      - - {x: 105.38285, y: -26.943407}
+        - {x: 105.38285, y: -39.396236}
+        - {x: 115.5, y: -39.396236}
+        - {x: 115.5, y: -37.839634}
+        - {x: 115.5, y: -19.160387}
+        - {x: 113.16117, y: -20.716991}
+      - - {x: 80.492226, y: -6.707557}
+        - {x: 78.93656, y: -8.264161}
+      - - {x: -81.29684, y: 57.113197}
+        - {x: -84.408165, y: 55.556595}
+        - {x: -84.408165, y: 50.886784}
+        - {x: -82.8525, y: 47.773575}
+        - {x: -75.07418, y: 47.773575}
+        - {x: -71.96285, y: 49.33018}
+        - {x: -71.96285, y: 53.999992}
+        - {x: -73.51852, y: 57.113197}
+      - - {x: -81.29684, y: 68.00942}
+        - {x: -85.96383, y: 63.339615}
+        - {x: -85.96383, y: 60.226406}
+        - {x: -82.8525, y: 57.113197}
+        - {x: -78.18551, y: 57.113197}
+        - {x: -75.07418, y: 60.226406}
+        - {x: -75.07418, y: 64.89622}
+        - {x: -78.18551, y: 68.00942}
+      - - {x: -28.404257, y: 63.339615}
+        - {x: -28.404257, y: 64.89622}
+        - {x: -39.293903, y: 100.698105}
+        - {x: -11.291952, y: 116.264145}
+        - {x: -28.404257, y: 72.67924}
+        - {x: -28.404257, y: 68.00942}
+        - {x: -26.848593, y: 66.45282}
+        - {x: -26.848593, y: 61.783012}
+        - {x: -25.292929, y: 60.226406}
+        - {x: -23.737265, y: 61.783012}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_31
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 229
+        width: 227
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 104.14109, y: 11.853761}
+        - {x: 82.36179, y: 10.297156}
+        - {x: 79.250465, y: 4.070741}
+        - {x: 79.250465, y: -9.938693}
+        - {x: 79.250465, y: 2.5141375}
+        - {x: 74.58347, y: 7.183949}
+        - {x: 82.36179, y: 13.410364}
+        - {x: 97.918434, y: 11.853761}
+        - {x: 105.696754, y: 13.410364}
+        - {x: 113.5, y: 19.63678}
+        - {x: 113.5, y: 56.99527}
+        - {x: 12.356914, y: 123}
+        - {x: -60.759296, y: 123}
+        - {x: -71.64894, y: 47.655647}
+        - {x: -73.204605, y: 24.306591}
+        - {x: -73.204605, y: 21.193384}
+        - {x: -80.982925, y: 21.193384}
+        - {x: -79.42726, y: 21.193384}
+        - {x: -73.204605, y: 27.419798}
+        - {x: -73.204605, y: 30.533007}
+        - {x: -74.76027, y: 38.316025}
+        - {x: -101.20656, y: 39.872627}
+        - {x: -107.429214, y: 24.306591}
+        - {x: -113.5, y: 5.627345}
+        - {x: -113.5, y: -69.08964}
+        - {x: -112.09621, y: -70.64624}
+        - {x: -104.31789, y: -70.64624}
+        - {x: -108.98488, y: -72.20284}
+        - {x: -113.5, y: -75.316055}
+        - {x: -113.5, y: -117.34435}
+        - {x: -98.09523, y: -123}
+        - {x: 62.138165, y: -123}
+        - {x: 99.4741, y: -109.56134}
+        - {x: 113.5, y: -14.608504}
+        - {x: 113.5, y: -6.825485}
+      - - {x: 12.356914, y: -115.78775}
+        - {x: 15.468242, y: -115.78775}
+        - {x: 17.023907, y: -114.23115}
+        - {x: 15.468242, y: -115.78775}
+      - - {x: -26.534687, y: -108.00473}
+        - {x: -26.534687, y: -106.44813}
+        - {x: -23.423359, y: -106.44813}
+        - {x: -23.423359, y: -109.56134}
+      - - {x: 27.913553, y: -104.891525}
+        - {x: 32.580547, y: -103.33492}
+        - {x: 26.35789, y: -101.77832}
+        - {x: 26.35789, y: -103.33492}
+      - - {x: -91.872574, y: -86.21228}
+        - {x: -99.650894, y: -87.76888}
+        - {x: -96.539566, y: -84.65568}
+        - {x: -96.539566, y: -78.42926}
+        - {x: -98.09523, y: -78.42926}
+        - {x: -98.09523, y: -83.099075}
+        - {x: -93.42824, y: -89.325485}
+        - {x: -88.761246, y: -92.4387}
+        - {x: -87.20558, y: -90.88209}
+      - - {x: 101.02976, y: -55.080204}
+        - {x: 96.36277, y: -56.636806}
+        - {x: 96.36277, y: -65.97643}
+        - {x: 105.696754, y: -65.97643}
+        - {x: 107.25242, y: -62.863224}
+        - {x: 107.25242, y: -56.636806}
+        - {x: 105.696754, y: -55.080204}
+      - - {x: 107.25242, y: -50.410393}
+        - {x: 107.25242, y: -55.080204}
+        - {x: 111.91941, y: -59.750015}
+        - {x: 113.5, y: -59.750015}
+        - {x: 113.5, y: -47.297184}
+        - {x: 110.36375, y: -47.297184}
+      - - {x: 105.696754, y: -34.844353}
+        - {x: 105.696754, y: -44.183975}
+        - {x: 108.80808, y: -45.74058}
+        - {x: 111.91941, y: -45.74058}
+        - {x: 113.5, y: -44.183975}
+        - {x: 113.5, y: -34.844353}
+      - - {x: -110.54054, y: 11.853761}
+        - {x: -113.5, y: 8.740553}
+        - {x: -113.5, y: 2.5141375}
+        - {x: -110.54054, y: -0.59907013}
+        - {x: -104.31789, y: -0.59907013}
+        - {x: -101.20656, y: 2.5141375}
+        - {x: -101.20656, y: 8.740553}
+        - {x: -104.31789, y: 11.853761}
+      - - {x: 48.137188, y: 32.08961}
+        - {x: 43.470196, y: 33.646214}
+        - {x: 41.91453, y: 32.08961}
+        - {x: 43.470196, y: 30.533007}
+        - {x: 48.137188, y: 30.533007}
+        - {x: 52.80418, y: 35.202816}
+        - {x: 51.248516, y: 35.202816}
+        - {x: 52.80418, y: 33.646214}
+        - {x: 52.80418, y: 28.976402}
+      - - {x: -80.982925, y: 50.768856}
+        - {x: -84.09425, y: 49.212254}
+        - {x: -84.09425, y: 44.542442}
+        - {x: -82.53859, y: 41.429234}
+        - {x: -77.8716, y: 41.429234}
+        - {x: -74.76027, y: 42.985836}
+        - {x: -74.76027, y: 47.655647}
+        - {x: -76.31593, y: 50.768856}
+      - - {x: -0.088398635, y: 52.32546}
+        - {x: -1.6440626, y: 60.10848}
+        - {x: -4.7553906, y: 50.768856}
+        - {x: -4.7553906, y: 41.429234}
+      - - {x: -82.53859, y: 60.10848}
+        - {x: -85.64992, y: 58.551876}
+        - {x: -85.64992, y: 53.882065}
+        - {x: -84.09425, y: 50.768856}
+        - {x: -77.8716, y: 50.768856}
+        - {x: -74.76027, y: 52.32546}
+        - {x: -74.76027, y: 56.99527}
+        - {x: -76.31593, y: 60.10848}
+      - - {x: 4.5785937, y: 69.448105}
+        - {x: 1.4672654, y: 72.56131}
+        - {x: -7.866719, y: 83.457535}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_32
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 228
+        width: 223
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76.67532, y: 8.518852}
+        - {x: 82.89798, y: 27.1981}
+        - {x: 90.6763, y: 11.63206}
+        - {x: 104.67728, y: 13.188664}
+        - {x: 111.5, y: 20.971684}
+        - {x: 111.5, y: 38.094326}
+        - {x: 109.34427, y: 44.32074}
+        - {x: 103.12161, y: 45.877342}
+        - {x: 22.227081, y: 109.6981}
+        - {x: -8.886199, y: 123.5}
+        - {x: -57.111786, y: 123.5}
+        - {x: -75.779755, y: 50.547157}
+        - {x: -75.779755, y: 22.528286}
+        - {x: -85.11374, y: 22.528286}
+        - {x: -80.44675, y: 22.528286}
+        - {x: -77.33542, y: 25.641495}
+        - {x: -75.779755, y: 31.86791}
+        - {x: -80.44675, y: 41.20753}
+        - {x: -105.33737, y: 50.547157}
+        - {x: -111.5, y: 34.981117}
+        - {x: -111.5, y: -123.5}
+        - {x: 67.34134, y: -123.5}
+        - {x: 111.5, y: -106.66983}
+        - {x: 107.788605, y: -14.830205}
+        - {x: 101.56595, y: 13.188664}
+        - {x: 84.45364, y: 11.63206}
+      - - {x: 9.78177, y: -114.45285}
+        - {x: 12.893098, y: -114.45285}
+        - {x: 14.448762, y: -112.89625}
+        - {x: 12.893098, y: -114.45285}
+      - - {x: -29.10983, y: -105.11323}
+        - {x: -24.442839, y: -109.783035}
+        - {x: -24.442839, y: -108.22643}
+      - - {x: -71.11276, y: -103.556625}
+        - {x: -69.5571, y: -100.44341}
+        - {x: -72.66843, y: -103.556625}
+      - - {x: 23.782745, y: -100.44341}
+        - {x: 23.782745, y: -102.000015}
+        - {x: 28.449738, y: -97.33021}
+        - {x: 30.005402, y: -97.33021}
+        - {x: 30.005402, y: -102.000015}
+        - {x: 33.11673, y: -103.556625}
+        - {x: 31.561066, y: -100.44341}
+      - - {x: -94.44772, y: -84.87737}
+        - {x: -97.55905, y: -84.87737}
+        - {x: -91.336395, y: -91.10379}
+        - {x: -89.78073, y: -89.54719}
+      - - {x: 98.45462, y: -53.7453}
+        - {x: 93.78763, y: -55.301903}
+        - {x: 93.78763, y: -64.641525}
+        - {x: 103.12161, y: -64.641525}
+        - {x: 104.67728, y: -61.52832}
+        - {x: 104.67728, y: -55.301903}
+        - {x: 103.12161, y: -53.7453}
+      - - {x: 104.67728, y: -47.518887}
+        - {x: 104.67728, y: -55.301903}
+        - {x: 106.23294, y: -58.41511}
+        - {x: 111.5, y: -58.41511}
+        - {x: 111.5, y: -56.85851}
+        - {x: 111.5, y: -45.96228}
+        - {x: 107.788605, y: -45.96228}
+      - - {x: 103.12161, y: -33.50945}
+        - {x: 103.12161, y: -42.84907}
+        - {x: 106.23294, y: -44.405678}
+        - {x: 109.34427, y: -44.405678}
+        - {x: 111.5, y: -42.84907}
+        - {x: 111.5, y: -36.622658}
+        - {x: 111.5, y: -33.50945}
+      - - {x: -83.558075, y: -19.500015}
+        - {x: -85.11374, y: -16.386808}
+        - {x: -91.336395, y: -24.169828}
+        - {x: -91.336395, y: -28.83964}
+      - - {x: -111.5, y: 13.188664}
+        - {x: -111.5, y: 0.7358335}
+        - {x: -106.893036, y: 0.7358335}
+        - {x: -103.78171, y: 3.8490412}
+        - {x: -103.78171, y: 10.075457}
+        - {x: -106.893036, y: 13.188664}
+      - - {x: 45.562042, y: 33.424515}
+        - {x: 39.339386, y: 42.764137}
+        - {x: 37.783722, y: 42.764137}
+        - {x: 36.228058, y: 36.53772}
+        - {x: 40.89505, y: 31.86791}
+        - {x: 45.562042, y: 31.86791}
+        - {x: 50.229034, y: 36.53772}
+        - {x: 54.896027, y: 30.311306}
+        - {x: 50.229034, y: 30.311306}
+      - - {x: -86.6694, y: 48.99055}
+        - {x: -86.6694, y: 45.877342}
+        - {x: -83.558075, y: 42.764137}
+        - {x: -80.44675, y: 42.764137}
+        - {x: -75.779755, y: 47.43395}
+        - {x: -77.33542, y: 52.10376}
+        - {x: -83.558075, y: 52.10376}
+      - - {x: -4.219207, y: 47.43395}
+        - {x: 0.44778514, y: 56.77357}
+        - {x: -7.330535, y: 50.547157}
+        - {x: -8.886199, y: 47.43395}
+        - {x: -7.330535, y: 45.877342}
+      - - {x: 22.227081, y: 55.21697}
+        - {x: 25.33841, y: 53.660362}
+        - {x: 25.33841, y: 55.21697}
+        - {x: 22.227081, y: 52.10376}
+      - - {x: -85.11374, y: 61.443382}
+        - {x: -88.22507, y: 58.330173}
+        - {x: -88.22507, y: 55.21697}
+        - {x: -85.11374, y: 52.10376}
+        - {x: -80.44675, y: 52.10376}
+        - {x: -77.33542, y: 53.660362}
+        - {x: -77.33542, y: 58.330173}
+        - {x: -78.89108, y: 61.443382}
+      - - {x: -25.998503, y: 112.81131}
+        - {x: -10.441863, y: 106.58489}
+        - {x: 3.5591133, y: 81.67923}
+        - {x: -35.33249, y: 81.67923}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_33
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 235
+        width: 224
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.4291904, y: 120}
+        - {x: -48.35206, y: 120}
+        - {x: -63.9087, y: 99.57547}
+        - {x: -112, y: 7.735848}
+        - {x: -112, y: -109.00944}
+        - {x: -110.57862, y: -115.235855}
+        - {x: -87.24366, y: -119.90566}
+        - {x: 65.21142, y: -119.90566}
+        - {x: 93.21337, y: -95.00001}
+        - {x: 112, y: -42.075474}
+        - {x: 112, y: 60.660378}
+      - - {x: -101.24464, y: -90.33019}
+        - {x: -104.355965, y: -93.4434}
+        - {x: -104.355965, y: -99.669815}
+        - {x: -101.24464, y: -102.78302}
+        - {x: -93.46632, y: -102.78302}
+        - {x: -91.91065, y: -99.669815}
+        - {x: -91.91065, y: -93.4434}
+        - {x: -96.577644, y: -90.33019}
+      - - {x: 96.3247, y: -57.641514}
+        - {x: 94.769035, y: -60.75472}
+        - {x: 94.769035, y: -65.42453}
+        - {x: 97.88036, y: -66.98113}
+        - {x: 102.547356, y: -66.98113}
+        - {x: 104.10302, y: -63.867928}
+        - {x: 104.10302, y: -59.198116}
+        - {x: 100.99169, y: -57.641514}
+      - - {x: 90.10204, y: -28.06604}
+        - {x: 90.10204, y: -37.405663}
+        - {x: 93.21337, y: -38.962265}
+        - {x: 96.3247, y: -38.962265}
+        - {x: 100.99169, y: -37.405663}
+        - {x: 100.99169, y: -32.73585}
+        - {x: 99.43603, y: -28.06604}
+      - - {x: -79.46534, y: -23.396229}
+        - {x: -85.687996, y: -17.169813}
+        - {x: -91.91065, y: -26.509436}
+        - {x: -90.35499, y: -35.84906}
+        - {x: -84.13233, y: -37.405663}
+      - - {x: 77.65673, y: 6.179244}
+        - {x: 77.65673, y: -6.2735863}
+        - {x: 79.212395, y: -15.61321}
+        - {x: 100.99169, y: -15.61321}
+        - {x: 100.99169, y: 6.179244}
+      - - {x: -96.577644, y: 20.188679}
+        - {x: -101.24464, y: 15.518867}
+        - {x: -101.24464, y: 13.962263}
+        - {x: -96.577644, y: 9.292452}
+        - {x: -93.46632, y: 9.292452}
+        - {x: -88.799324, y: 13.962263}
+        - {x: -88.799324, y: 15.518867}
+        - {x: -93.46632, y: 20.188679}
+      - - {x: -90.35499, y: 32.64151}
+        - {x: -95.02198, y: 31.084906}
+        - {x: -95.02198, y: 24.85849}
+        - {x: -93.46632, y: 21.745281}
+        - {x: -87.24366, y: 21.745281}
+        - {x: -84.13233, y: 24.85849}
+        - {x: -84.13233, y: 27.971697}
+        - {x: -88.799324, y: 32.64151}
+      - - {x: -59.241707, y: 27.971697}
+        - {x: -60.79737, y: 27.971697}
+      - - {x: 37.209465, y: 35.754715}
+        - {x: 35.6538, y: 37.31132}
+        - {x: 38.76513, y: 40.424526}
+        - {x: 37.209465, y: 40.424526}
+        - {x: 37.209465, y: 34.198112}
+        - {x: 41.876457, y: 29.528301}
+        - {x: 43.43212, y: 29.528301}
+        - {x: 43.43212, y: 31.084906}
+        - {x: 41.876457, y: 32.64151}
+      - - {x: 21.652822, y: 48.207546}
+        - {x: 21.652822, y: 46.650944}
+        - {x: 23.208487, y: 46.650944}
+        - {x: 23.208487, y: 48.207546}
+      - - {x: -29.68409, y: 48.207546}
+        - {x: -28.128426, y: 46.650944}
+        - {x: -23.461433, y: 51.320755}
+        - {x: -23.461433, y: 59.103775}
+        - {x: -25.017097, y: 60.660378}
+        - {x: -25.017097, y: 59.103775}
+        - {x: -20.350105, y: 63.773586}
+        - {x: -18.794443, y: 71.5566}
+        - {x: 6.0961823, y: 71.5566}
+        - {x: 1.4291904, y: 66.886795}
+        - {x: 2.9848545, y: 66.886795}
+        - {x: -1.6821377, y: 71.5566}
+        - {x: -4.7934656, y: 71.5566}
+        - {x: -9.460458, y: 66.886795}
+        - {x: -9.460458, y: 51.320755}
+        - {x: -7.9047937, y: 49.764153}
+        - {x: -9.460458, y: 48.207546}
+        - {x: -7.9047937, y: 48.207546}
+        - {x: -12.571786, y: 52.877357}
+        - {x: -18.794443, y: 52.877357}
+        - {x: -23.461433, y: 48.207546}
+        - {x: -21.90577, y: 48.207546}
+        - {x: -23.461433, y: 49.764153}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_34
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 403
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.8188815, y: 3}
+        - {x: -2.8188815, y: -2.4952784}
+        - {x: 3, y: -2.4952784}
+        - {x: 3, y: -0.9386747}
+        - {x: 3, y: 3}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_35
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 354
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 3.5}
+        - {x: -4.5, y: -3.2405653}
+        - {x: 4.5, y: -3.2405653}
+        - {x: 4.5, y: 3.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_36
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 235
+        width: 182
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 78.63776, y: -28.06604}
+        - {x: 78.63776, y: -20.28302}
+        - {x: 78.63776, y: -23.396229}
+        - {x: 84.86041, y: -28.06604}
+        - {x: 91, y: -28.06604}
+        - {x: 91, y: 17.07547}
+        - {x: 72.4151, y: 81.5}
+        - {x: -53.59369, y: 81.5}
+        - {x: -80.03998, y: 62.21698}
+        - {x: -90.92963, y: 45.094337}
+        - {x: -90.92963, y: -48.30189}
+        - {x: -72.26166, y: -63.867928}
+        - {x: -55.149353, y: -74.76415}
+        - {x: -48.926697, y: -74.76415}
+        - {x: -45.81537, y: -71.65095}
+        - {x: -45.81537, y: -65.42453}
+        - {x: -36.481384, y: -80.99057}
+        - {x: 28.856504, y: -80.99057}
+        - {x: 52.191463, y: -70.094345}
+        - {x: 67.74811, y: -48.30189}
+      - - {x: -59.816345, y: 21.745281}
+        - {x: -61.37201, y: 23.301886}
+        - {x: -59.816345, y: 21.745281}
+        - {x: -56.705017, y: 21.745281}
+        - {x: -52.038025, y: 26.415094}
+        - {x: 58.41412, y: -15.61321}
+        - {x: 59.969784, y: -17.169813}
+        - {x: 59.969784, y: -15.61321}
+        - {x: 55.30279, y: -20.28302}
+      - - {x: 83.30475, y: -31.179247}
+        - {x: 83.30475, y: -37.405663}
+        - {x: 86.41608, y: -43.632076}
+        - {x: 91, y: -43.632076}
+        - {x: 91, y: -28.06604}
+        - {x: 87.97174, y: -28.06604}
+      - - {x: 84.86041, y: -3.160379}
+        - {x: 84.86041, y: -7.83019}
+        - {x: 87.97174, y: -10.9433975}
+        - {x: 91, y: -10.9433975}
+        - {x: 91, y: -0.047171254}
+        - {x: 87.97174, y: -0.047171254}
+      - - {x: -90.92963, y: -1.603775}
+        - {x: -83.151306, y: 1.5094326}
+        - {x: -83.151306, y: 9.292452}
+        - {x: -84.70697, y: 12.40566}
+        - {x: -90.92963, y: 13.962263}
+      - - {x: 30.412169, y: 32.64151}
+        - {x: 44.413143, y: 32.64151}
+        - {x: 44.413143, y: 40.424526}
+        - {x: 42.85748, y: 45.094337}
+        - {x: 33.5235, y: 45.094337}
+        - {x: 30.412169, y: 38.867924}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_37
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 322
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5521975, y: 10.5}
+        - {x: -13.886182, y: 6.7877197}
+        - {x: -13.886182, y: -8.778318}
+        - {x: -12.330518, y: -10.334922}
+        - {x: 9.448779, y: -10.334922}
+        - {x: 14, y: -2.551903}
+        - {x: 14, y: 10.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_38
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 326
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5892918, y: 4}
+        - {x: -4.144956, y: 3.783011}
+        - {x: -4.144956, y: -0.8868005}
+        - {x: -2.5892918, y: -4}
+        - {x: 4.5, y: -4}
+        - {x: 4.5, y: -2.4434044}
+        - {x: 4.5, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_39
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 315
+        width: 191
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.5, y: 14}
+        - {x: -95.5, y: -14}
+        - {x: 95.5, y: -14}
+        - {x: 95.5, y: 14}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_40
+      rect:
+        serializedVersion: 2
+        x: 2513
+        y: 309
+        width: 76
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 17}
+        - {x: -38, y: -17}
+        - {x: 38, y: -17}
+        - {x: 38, y: 17}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_41
+      rect:
+        serializedVersion: 2
+        x: 2594
+        y: 315
+        width: 75
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.40582, y: 13.5}
+        - {x: -37.40582, y: -13.443403}
+        - {x: 37.5, y: -13.443403}
+        - {x: 37.5, y: 13.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_42
+      rect:
+        serializedVersion: 2
+        x: 2672
+        y: 315
+        width: 96
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 13.5}
+        - {x: -48, y: -13.443403}
+        - {x: 48, y: -13.443403}
+        - {x: 48, y: 13.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_43
+      rect:
+        serializedVersion: 2
+        x: 2773
+        y: 315
+        width: 117
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.308537, y: -14}
+        - {x: 58.5, y: -14}
+        - {x: 58.5, y: 14}
+        - {x: -58.308537, y: 14}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_44
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 315
+        width: 67
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.315365, y: 13.5}
+        - {x: -33.315365, y: -13.443403}
+        - {x: 33.5, y: -13.443403}
+        - {x: 33.5, y: 13.018862}
+        - {x: 33.5, y: 13.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_45
+      rect:
+        serializedVersion: 2
+        x: 2966
+        y: 309
+        width: 108
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: 16.5}
+        - {x: -54, y: -16.330208}
+        - {x: 49.907722, y: -16.330208}
+        - {x: 53.01905, y: -14.773603}
+        - {x: 54, y: -6.990585}
+        - {x: 54, y: 16.358473}
+        - {x: 53.01905, y: 16.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_46
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 315
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 4.5}
+        - {x: -4.5, y: -4.5}
+        - {x: 4.5, y: -4.5}
+        - {x: 4.5, y: 4.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_47
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 317
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.8823082, y: 3}
+        - {x: -2.8823082, y: -2.882078}
+        - {x: 3, y: -2.882078}
+        - {x: 3, y: 3}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_48
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 317
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.6791148, y: 3}
+        - {x: -2.6791148, y: -2.882078}
+        - {x: 3, y: -2.882078}
+        - {x: 3, y: 3}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_49
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 315
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 5.5}
+        - {x: -6, y: -5.5}
+        - {x: 6, y: -5.5}
+        - {x: 6, y: 5.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_50
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 301
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 5.5}
+        - {x: -5.5, y: -5.5}
+        - {x: 5.5, y: -5.5}
+        - {x: 5.5, y: 5.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_51
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 301
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 4.5}
+        - {x: -4.5, y: -4.5}
+        - {x: 4.5, y: -4.5}
+        - {x: 4.5, y: 4.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_52
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 301
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 4.5}
+        - {x: -4.5, y: -4.5}
+        - {x: 4.5, y: -4.5}
+        - {x: 4.5, y: 4.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_53
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 306
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 3}
+        - {x: -4, y: -2.98585}
+        - {x: 4, y: -2.98585}
+        - {x: 4, y: 3}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_54
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 295
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.307131, y: 4.5}
+        - {x: -4.307131, y: -4.5}
+        - {x: 4.5, y: -4.5}
+        - {x: 4.5, y: 4.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_55
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 295
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.437482, y: 4}
+        - {x: -3.437482, y: -2.31132}
+        - {x: -1.8818179, y: -3.867924}
+        - {x: 3.5, y: -3.867924}
+        - {x: 3.5, y: -2.31132}
+        - {x: 3.5, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_56
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 295
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 4}
+        - {x: -4, y: -3.867924}
+        - {x: 3.5439212, y: -3.867924}
+        - {x: 4, y: -2.31132}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_57
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 278
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.6635256, y: 8.5}
+        - {x: -9, y: 8.5}
+        - {x: -9, y: -5.3018966}
+        - {x: -2.9965334, y: -8.415104}
+        - {x: 9, y: -8.415104}
+        - {x: 9, y: 8.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_58
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 274
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.2568073, y: 5}
+        - {x: -5.8124714, y: 3.9292276}
+        - {x: -5.8124714, y: -5}
+        - {x: 6, y: -5}
+        - {x: 6, y: 5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_59
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 274
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 5}
+        - {x: -4, y: -5}
+        - {x: 4, y: -5}
+        - {x: 4, y: 3.9292276}
+        - {x: 3.6200712, y: 5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_60
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 266
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.8857574, y: 6}
+        - {x: -4.8857574, y: -5.627369}
+        - {x: 5, y: -5.627369}
+        - {x: 5, y: 6}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_61
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 255
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.9770045, y: 4.5}
+        - {x: -4.9770045, y: -4.174537}
+        - {x: 5, y: -4.174537}
+        - {x: 5, y: 4.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_62
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 255
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.22655118, y: 5}
+        - {x: -5.996105, y: 5}
+        - {x: -5.996105, y: -4.952839}
+        - {x: 6, y: -4.952839}
+        - {x: 6, y: 5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_63
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 256
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 4}
+        - {x: -4, y: -3.952837}
+        - {x: 4, y: -3.952837}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_64
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 222
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 5.5}
+        - {x: -4.5, y: -5.264155}
+        - {x: 4.5, y: -5.264155}
+        - {x: 4.5, y: 5.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_65
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 222
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.449746, y: 5.5}
+        - {x: -4.449746, y: -5.264155}
+        - {x: 4.5, y: -5.264155}
+        - {x: 4.5, y: 5.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_66
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 231
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.134306, y: 3}
+        - {x: -3.134306, y: -3}
+        - {x: 3.5, y: -3}
+        - {x: 3.5, y: 3}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_67
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 220
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.9828606, y: 3}
+        - {x: -2.9828606, y: -3}
+        - {x: 3, y: -3}
+        - {x: 3, y: 3}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_68
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 218
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 4}
+        - {x: -3.5, y: -4}
+        - {x: 3.5, y: -4}
+        - {x: 3.5, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_69
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 224
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 3.5}
+        - {x: -3.5, y: -3.2641509}
+        - {x: 3.5, y: -3.2641509}
+        - {x: 3.5, y: 3.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_70
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 118
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.816378, y: 25.5}
+        - {x: -12.816378, y: -18.981133}
+        - {x: -8.149385, y: -25.207548}
+        - {x: 13, y: -25.207548}
+        - {x: 13, y: 12.150944}
+        - {x: -1.9267294, y: 25.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_71
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 153
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.1322637, y: 25}
+        - {x: -13.9105835, y: 12.127358}
+        - {x: -13.9105835, y: -9.665095}
+        - {x: -10.799255, y: -23.67453}
+        - {x: -6.1322637, y: -25}
+        - {x: 14, y: -25}
+        - {x: 14, y: 25}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_72
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 153
+        width: 92
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.803738, y: 14}
+        - {x: -45.915066, y: 9.014151}
+        - {x: -45.915066, y: -14}
+        - {x: 46, y: -14}
+        - {x: 46, y: 12.127358}
+        - {x: 42.757782, y: 14}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_73
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 146
+        width: 93
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.14409, y: 17.5}
+        - {x: -46.14409, y: -15.886796}
+        - {x: -38.36577, y: -17.4434}
+        - {x: 17.638138, y: -17.4434}
+        - {x: 46.5, y: -11.216984}
+        - {x: 46.5, y: 15.245281}
+        - {x: 44.084427, y: 17.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_74
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 13
+        width: 211
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 92.33887, y: 22.339626}
+        - {x: 86.11621, y: 13.000003}
+        - {x: 86.11621, y: 11.443399}
+        - {x: 86.11621, y: 13.000003}
+        - {x: 87.671875, y: 20.783022}
+        - {x: 97.00586, y: 30.122644}
+        - {x: 100.11719, y: 48.80189}
+        - {x: 93.89453, y: 57}
+        - {x: -89.67383, y: 57}
+        - {x: -105.23047, y: 55.028305}
+        - {x: -105.23047, y: -2.5660353}
+        - {x: -85.006836, y: -57}
+        - {x: 72.115234, y: -57}
+        - {x: 105.5, y: 13.000003}
+        - {x: 105.5, y: 30.122644}
+        - {x: 98.56152, y: 30.122644}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_75
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 125
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 9.5}
+        - {x: -6.5, y: -1.8632051}
+        - {x: -3.6704068, y: -9.5}
+        - {x: 6.5, y: -9.5}
+        - {x: 6.5, y: 5.919814}
+        - {x: 2.5522494, y: 9.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_76
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 56
+        width: 84
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.427247, y: 46.5}
+        - {x: -17.241697, y: 46.5}
+        - {x: -42, y: 20.976416}
+        - {x: -42, y: -5.4858494}
+        - {x: -40.57666, y: -14.825472}
+        - {x: -18.797361, y: -45.95755}
+        - {x: -6.3520494, y: -45.95755}
+        - {x: 12.315919, y: -27.278303}
+        - {x: 42, y: -39.731133}
+        - {x: 42, y: -13.268868}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_77
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 44
+        width: 130
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62.42432, y: 26.099056}
+        - {x: 53.090336, y: 18.316038}
+        - {x: 54.646, y: 22.98585}
+        - {x: 57.757328, y: 38.551888}
+        - {x: 46.86768, y: 44.7783}
+        - {x: 17.310062, y: 4.3066034}
+        - {x: 17.310062, y: -1.9198117}
+        - {x: 17.310062, y: 45.5}
+        - {x: -4.4692345, y: 45.5}
+        - {x: -65, y: -6.589623}
+        - {x: -65, y: -45.5}
+        - {x: -9.136227, y: -45.5}
+        - {x: 54.646, y: -33.051888}
+        - {x: 65, y: -1.9198117}
+        - {x: 65, y: 27.65566}
+      - - {x: -16.914547, y: -36.165096}
+        - {x: -20.025875, y: -42.39151}
+        - {x: -20.025875, y: -45.5}
+        - {x: 6.4204135, y: -45.5}
+        - {x: 6.4204135, y: -40.834908}
+        - {x: 0.19775753, y: -36.165096}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_78
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 100
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.92432, y: 16.5}
+        - {x: -11.92432, y: 5.0471697}
+        - {x: -5.7016644, y: -12.075473}
+        - {x: -1.0346723, y: -16.5}
+        - {x: 12, y: -16.5}
+        - {x: 12, y: -15.18868}
+        - {x: 12, y: 9.716981}
+        - {x: 2.0766559, y: 16.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_79
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 102
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.066922, y: 23.5}
+        - {x: -5.822726, y: 20.278294}
+        - {x: -16.712374, y: -9.297178}
+        - {x: -16.712374, y: -17.080196}
+        - {x: -15.156711, y: -20.193405}
+        - {x: -7.37839, y: -23.306612}
+        - {x: 14.400907, y: -23.306612}
+        - {x: 17, y: -10.853782}
+        - {x: 17, y: 23.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_80
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 113
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.3822994, y: 14}
+        - {x: -9.5, y: 11.042456}
+        - {x: -9.5, y: -13.863206}
+        - {x: 2.396021, y: -13.863206}
+        - {x: 9.5, y: -2.966979}
+        - {x: 9.5, y: 14}
+      - - {x: 5.507349, y: -13.863206}
+        - {x: 9.5, y: -13.863206}
+        - {x: 9.5, y: -4.523583}
+        - {x: 5.507349, y: -6.080187}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_81
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 105
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.272441, y: -10.966984}
+        - {x: 7.284199, y: -10.966984}
+        - {x: 8.5, y: -1.6273607}
+        - {x: 8.5, y: 11}
+        - {x: 1.0615432, y: 11}
+        - {x: -8.272441, y: 7.712262}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_82
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 94
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 15}
+        - {x: -14.5, y: -10.292454}
+        - {x: 0.9638869, y: -14.962265}
+        - {x: 14.5, y: -14.962265}
+        - {x: 14.5, y: 2.1603768}
+        - {x: 4.075215, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_83
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 91
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.4887705, y: 5.5}
+        - {x: -4.4887705, y: -5.5}
+        - {x: 4.5, y: -5.5}
+        - {x: 4.5, y: -2.3962271}
+        - {x: 4.5, y: 5.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_84
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 85
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.9355433, y: 7}
+        - {x: -5.491207, y: 5.613207}
+        - {x: -5.491207, y: -6.839624}
+        - {x: 3.842777, y: -6.839624}
+        - {x: 5.5, y: -5.28302}
+        - {x: 5.5, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_85
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 13
+        width: 146
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.501493, y: 29.34434}
+        - {x: 5.945829, y: 21.561321}
+        - {x: 5.945829, y: 15.334906}
+        - {x: -9.610811, y: 46.5}
+        - {x: -26.723116, y: 46.5}
+        - {x: -29.834444, y: 46.46698}
+        - {x: -73, y: 5.9952826}
+        - {x: -73, y: -42.259434}
+        - {x: -68.72604, y: -46.5}
+        - {x: 66.61673, y: -46.5}
+        - {x: 73, y: -39.14623}
+        - {x: 73, y: -14.240567}
+        - {x: 60.39407, y: 4.4386787}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_86
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 97
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.9638549, y: 2.5}
+        - {x: -1.9638549, y: -2.5}
+        - {x: 2, y: -2.5}
+        - {x: 2, y: 2.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_87
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 93
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.220236, y: 3.5}
+        - {x: -3.220236, y: -3.5}
+        - {x: 3.5, y: -3.5}
+        - {x: 3.5, y: 3.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_88
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 66
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.819813, y: 13.5}
+        - {x: -10.819813, y: -13.386796}
+        - {x: 11, y: -13.386796}
+        - {x: 11, y: 13.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_89
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 37
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.853028, y: 28.5}
+        - {x: -14, y: 24.54717}
+        - {x: -14, y: -28.37736}
+        - {x: 12.037596, y: -28.37736}
+        - {x: 14, y: -22.150944}
+        - {x: 14, y: 16.764153}
+        - {x: 1.1479479, y: 28.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_90
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 69
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.8700905, y: -2.6037772}
+        - {x: -0.20309848, y: -11.9434}
+        - {x: 5, y: -11.9434}
+        - {x: 5, y: 12}
+        - {x: -3.3144267, y: 12}
+        - {x: -4.8700905, y: 11.405657}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_91
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 82
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.442404, y: 2}
+        - {x: -2.442404, y: -2}
+        - {x: 2.5, y: -2}
+        - {x: 2.5, y: 2}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_92
+      rect:
+        serializedVersion: 2
+        x: 2962
+        y: 57
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 0.9622603}
+        - {x: 2.349068, y: 13}
+        - {x: -10.096245, y: 13}
+        - {x: -11.5, y: 11.858487}
+        - {x: -11.5, y: -13}
+        - {x: 11.5, y: -13}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_93
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 46
+        width: 12
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.4106264, y: 16.5}
+        - {x: -5.9662905, y: 16.424526}
+        - {x: -5.9662905, y: -8.481134}
+        - {x: -4.4106264, y: -16.264154}
+        - {x: 6, y: -16.264154}
+        - {x: 6, y: 13.311318}
+        - {x: 4.9233575, y: 16.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_94
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 74
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 2.5}
+        - {x: -3, y: -2.2735844}
+        - {x: 3, y: -2.2735844}
+        - {x: 3, y: 2.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_95
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 65
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.0946963, y: 6.5}
+        - {x: -3.6503603, y: 6.5}
+        - {x: -3.6503603, y: -3.4905658}
+        - {x: -0.5390323, y: -6.5}
+        - {x: 4, y: -6.5}
+        - {x: 4, y: 6.5}
+        - {x: 4, y: 6.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_96
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 71
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.8866605, y: 2}
+        - {x: -1.8866605, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_97
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 17
+        width: 205
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 80.85009, y: 30}
+        - {x: -96.495605, y: 30}
+        - {x: -102.5, y: 27.896225}
+        - {x: -102.5, y: -28.141512}
+        - {x: -101.1626, y: -29.698114}
+        - {x: 99.51806, y: -29.698114}
+        - {x: 102.5, y: -21.915096}
+        - {x: 102.5, y: 12.330188}
+        - {x: 87.07275, y: 30}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_98
+      rect:
+        serializedVersion: 2
+        x: 2477
+        y: 27
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.839817, y: 24}
+        - {x: -19.5, y: 24}
+        - {x: -19.5, y: -24}
+        - {x: 19.050808, y: -24}
+        - {x: 19.5, y: -22.811323}
+        - {x: 19.5, y: -7.245285}
+        - {x: 3.4941673, y: 19.21698}
+      - - {x: 11.272488, y: 16.103771}
+        - {x: 8.1611595, y: 14.547168}
+        - {x: 8.1611595, y: -1.01887}
+        - {x: 17.495144, y: -10.358493}
+        - {x: 19.5, y: -10.358493}
+        - {x: 19.5, y: 16.103771}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_99
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 18
+        width: 197
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98.2387, y: 28}
+        - {x: -98.2387, y: -27.919811}
+        - {x: 98.5, y: -27.919811}
+        - {x: 98.5, y: 28}
+        - {x: 96.2193, y: 28}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_100
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 15
+        width: 204
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63.977634, y: 28.5}
+        - {x: 54.64365, y: 22.78302}
+        - {x: 46.86533, y: 13.4433975}
+        - {x: 39.08701, y: 11.886793}
+        - {x: 29.753025, y: 15.000001}
+        - {x: -21.583889, y: 28.5}
+        - {x: -97.811424, y: 28.5}
+        - {x: -102, y: 25.896227}
+        - {x: -102, y: -19.245283}
+        - {x: -82.25478, y: -28.5}
+        - {x: 98.20224, y: -28.5}
+        - {x: 102, y: -25.471699}
+        - {x: 102, y: 19.669813}
+        - {x: 68.64462, y: 28.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_101
+      rect:
+        serializedVersion: 2
+        x: 2995
+        y: 68
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 2}
+        - {x: -3, y: -2}
+        - {x: 3, y: -2}
+        - {x: 3, y: 2}
+        - {x: 2.6802542, y: 2}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_102
+      rect:
+        serializedVersion: 2
+        x: 3097
+        y: 55
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 7}
+        - {x: -8, y: -7}
+        - {x: 8, y: -7}
+        - {x: 8, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_103
+      rect:
+        serializedVersion: 2
+        x: 3117
+        y: 52
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.2177033, y: 11}
+        - {x: -11.440359, y: 4.523583}
+        - {x: -11.440359, y: -11}
+        - {x: 11.5, y: -11}
+        - {x: 11.5, y: 7.6367908}
+        - {x: 10.338937, y: 11}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_104
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 54
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.130413, y: 7}
+        - {x: -6, y: 7}
+        - {x: -6, y: -6.7075515}
+        - {x: 6, y: -6.7075515}
+        - {x: 6, y: 5.7452793}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_105
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 62
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.8710886, y: 2}
+        - {x: -1.8710886, y: -1.8207545}
+        - {x: 2, y: -1.8207545}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_106
+      rect:
+        serializedVersion: 2
+        x: 2507
+        y: 23
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 20.5}
+        - {x: -18.5, y: -20.5}
+        - {x: 18.5, y: -20.5}
+        - {x: 18.5, y: -6.575473}
+        - {x: -4.619517, y: 20.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_107
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 19
+        width: 108
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.402771, y: 22}
+        - {x: -53.96039, y: -0.4575475}
+        - {x: -53.96039, y: -22}
+        - {x: 34.712463, y: -22}
+        - {x: 54, y: -9.797171}
+        - {x: 54, y: 22}
+      - - {x: -11.9574585, y: 2.6556602}
+        - {x: -13.513123, y: 1.0990564}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_108
+      rect:
+        serializedVersion: 2
+        x: 2711
+        y: 19
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.145064, y: -19.915094}
+        - {x: 20.479048, y: -19.915094}
+        - {x: 23, y: -18.358492}
+        - {x: 23, y: 3.433962}
+        - {x: 20.479048, y: 20.556604}
+        - {x: 12.700728, y: 22.5}
+        - {x: -5.9672403, y: 22.5}
+        - {x: -23, y: -1.2358494}
+        - {x: -23, y: -18.358492}
+        - {x: -18.412552, y: -22.5}
+        - {x: 8.033736, y: -22.5}
+        - {x: 8.033736, y: -9.018868}
+        - {x: 8.033736, y: -16.801888}
+      - - {x: 20.479048, y: 1.8773582}
+        - {x: 23, y: -1.2358494}
+        - {x: 23, y: -1.2358494}
+        - {x: 23, y: 11.216981}
+        - {x: 20.479048, y: 9.6603775}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_109
+      rect:
+        serializedVersion: 2
+        x: 2954
+        y: 52
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.20653, y: 6}
+        - {x: -7.20653, y: -6}
+        - {x: 7.5, y: -6}
+        - {x: 7.5, y: -3.2594361}
+        - {x: 7.5, y: 6}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_110
+      rect:
+        serializedVersion: 2
+        x: 2994
+        y: 60
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.2089214, y: 2.5}
+        - {x: -2.2089214, y: -2.2641547}
+        - {x: 2.5, y: -2.2641547}
+        - {x: 2.5, y: 2.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_111
+      rect:
+        serializedVersion: 2
+        x: 3077
+        y: 54
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.770488, y: 7}
+        - {x: -6.326152, y: 5.7452793}
+        - {x: -6.326152, y: -2.03774}
+        - {x: -4.770488, y: -6.7075515}
+        - {x: 6.5, y: -6.7075515}
+        - {x: 6.5, y: -5.1509476}
+        - {x: 6.5, y: 7}
+        - {x: 6.5, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_112
+      rect:
+        serializedVersion: 2
+        x: 3135
+        y: 56
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 6}
+        - {x: -12, y: -5.4858494}
+        - {x: 12, y: -5.4858494}
+        - {x: 12, y: 5.4103775}
+        - {x: 11.226532, y: 6}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_113
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 51
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.1894567, y: 3.5}
+        - {x: -2.1894567, y: -3.4811363}
+        - {x: 2.5, y: -3.4811363}
+        - {x: 2.5, y: 3.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_114
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 57
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_115
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 23
+        width: 139
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69.04199, y: 17}
+        - {x: -69.04199, y: -13.580191}
+        - {x: -58.152344, y: -16.693398}
+        - {x: 64.74512, y: -16.693398}
+        - {x: 69.5, y: -15.136794}
+        - {x: 69.5, y: 17}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_116
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 48
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.8710886, y: 4.5}
+        - {x: -3.4267526, y: 4.5}
+        - {x: -3.4267526, y: -4.146228}
+        - {x: 3.5, y: -4.146228}
+        - {x: 3.5, y: -1.0330201}
+        - {x: 3.5, y: 4.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_117
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 49
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 2.5}
+        - {x: -2.5, y: -2.3679268}
+        - {x: 2.5, y: -2.3679268}
+        - {x: 2.5, y: 2.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_118
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 25
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 16}
+        - {x: -17.5, y: -14.693397}
+        - {x: -16.172867, y: -16}
+        - {x: 17.5, y: -16}
+        - {x: 17.5, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_119
+      rect:
+        serializedVersion: 2
+        x: 2881
+        y: 26
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.424295, y: 15}
+        - {x: -19.535624, y: 15}
+        - {x: -21.091288, y: 10.433962}
+        - {x: -21.091288, y: -14.4717}
+        - {x: 13.133322, y: -14.4717}
+        - {x: 21.5, y: -9.801888}
+        - {x: 21.5, y: 10.433962}
+        - {x: 16.24465, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_120
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 47
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.7611518, y: 5}
+        - {x: -4.316816, y: 4.193396}
+        - {x: -4.316816, y: -5}
+        - {x: 4.5, y: -5}
+        - {x: 4.5, y: 5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_121
+      rect:
+        serializedVersion: 2
+        x: 2981
+        y: 51
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 2}
+        - {x: -2.5, y: -1.9245324}
+        - {x: 2.5, y: -1.9245324}
+        - {x: 2.5, y: 2}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_122
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.6538426, y: 3}
+        - {x: -3, y: 3}
+        - {x: -3, y: -2.7028344}
+        - {x: 3, y: -2.7028344}
+        - {x: 3, y: -1.1462306}
+        - {x: 3, y: 3}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_123
+      rect:
+        serializedVersion: 2
+        x: 3098
+        y: 49
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.438511, y: 2.5}
+        - {x: -2.438511, y: -2.3679268}
+        - {x: 2.5, y: -2.3679268}
+        - {x: 2.5, y: 2.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_124
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 47
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.773321, y: 3.5}
+        - {x: -3.773321, y: -3.5}
+        - {x: 4, y: -3.5}
+        - {x: 4, y: 3.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_125
+      rect:
+        serializedVersion: 2
+        x: 3145
+        y: 48
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.6639383, y: 3.5}
+        - {x: -3.6639383, y: -0.25471824}
+        - {x: -0.55261016, y: -3.367926}
+        - {x: 4, y: -3.367926}
+        - {x: 4, y: 3.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_126
+      rect:
+        serializedVersion: 2
+        x: 3154
+        y: 52
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.442309, y: 2.5}
+        - {x: -2.442309, y: -2.4811342}
+        - {x: 2.5, y: -2.4811342}
+        - {x: 2.5, y: 2.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_127
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 16
+        width: 139
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.243637, y: 17.5}
+        - {x: -7.465317, y: 10.551887}
+        - {x: 1.8686674, y: 12.10849}
+        - {x: -5.9096527, y: 7.438679}
+        - {x: -16.799301, y: 15.221698}
+        - {x: -32.35594, y: 17.5}
+        - {x: -60.357895, y: 17.5}
+        - {x: -69.5, y: 16.778301}
+        - {x: -69.5, y: -11.240567}
+        - {x: -61.91356, y: -17.466982}
+        - {x: 69.5, y: -17.466982}
+        - {x: 69.5, y: 17.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_128
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 12
+        width: 157
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.820312, y: 19}
+        - {x: -3.515626, y: 8.886793}
+        - {x: -5.07129, y: 7.330189}
+        - {x: -12.84961, y: 7.330189}
+        - {x: -17.516602, y: 4.216982}
+        - {x: -14.405274, y: 8.886793}
+        - {x: -9.738282, y: 7.330189}
+        - {x: -6.626954, y: 7.330189}
+        - {x: -3.515626, y: 8.886793}
+        - {x: 2.70703, y: 16.669811}
+        - {x: 2.70703, y: 19}
+        - {x: -71.96484, y: 19}
+        - {x: -76.631836, y: 8.886793}
+        - {x: -78.1875, y: 4.216982}
+        - {x: -78.1875, y: -12.905661}
+        - {x: -76.631836, y: -17.575472}
+        - {x: -64.18652, y: -19}
+        - {x: 61.822266, y: -19}
+        - {x: 78.5, y: -6.679245}
+        - {x: 78.5, y: 15.113209}
+        - {x: 64.93359, y: 19}
+      - - {x: 10.485351, y: 19}
+        - {x: 13.596679, y: 13.556604}
+        - {x: 18.26367, y: 13.556604}
+        - {x: 24.486326, y: 19}
+        - {x: 24.486326, y: 19}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_129
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 15
+        width: 62
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.867647, y: 17.5}
+        - {x: -31, y: 5.6603765}
+        - {x: -31, y: -14.575473}
+        - {x: -26.423311, y: -17.5}
+        - {x: 31, y: -17.5}
+        - {x: 31, y: 2.547169}
+        - {x: 12.46829, y: 17.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_130
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 15
+        width: 62
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.572813, y: 17.5}
+        - {x: -10.42914, y: 17.5}
+        - {x: -30.652773, y: 4.1037726}
+        - {x: -30.652773, y: -17.5}
+        - {x: 26.906797, y: -17.5}
+        - {x: 31, y: -9.905662}
+        - {x: 31, y: 10.330188}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_131
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 48
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.883812, y: 2}
+        - {x: -1.883812, y: -1.8113221}
+        - {x: 2, y: -1.8113221}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_132
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 40
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.6625934, y: 4.5}
+        - {x: -2.6625934, y: -4.36321}
+        - {x: 3, y: -4.36321}
+        - {x: 3, y: 4.5}
+        - {x: 3, y: 4.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_133
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 41
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.448781, y: 5.5}
+        - {x: -3.448781, y: -5.5}
+        - {x: 3.5, y: -5.5}
+        - {x: 3.5, y: 5.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_134
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 41
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 4}
+        - {x: -3, y: -2.5849063}
+        - {x: -1.7827849, y: -4}
+        - {x: 3, y: -4}
+        - {x: 3, y: 3.641509}
+        - {x: 2.8842072, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_135
+      rect:
+        serializedVersion: 2
+        x: 2757
+        y: 24
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 14}
+        - {x: -10.5, y: -9.466982}
+        - {x: -2.7480485, y: -14}
+        - {x: 10.5, y: -14}
+        - {x: 10.5, y: 6.0990562}
+        - {x: 3.4746075, y: 14}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_136
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 23
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.0868464, y: 13}
+        - {x: -5.6425104, y: 10.547169}
+        - {x: -10, y: -0.34905776}
+        - {x: -10, y: -12.801888}
+        - {x: 10, y: -12.801888}
+        - {x: 10, y: 13}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_137
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 27
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.3109756, y: 12}
+        - {x: -8.866639, y: 8.320753}
+        - {x: -8.866639, y: -11.915096}
+        - {x: 9, y: -11.915096}
+        - {x: 9, y: 12}
+      - - {x: 6.690001, y: -11.915096}
+        - {x: 9, y: -11.915096}
+        - {x: 9, y: -5.6886816}
+        - {x: 6.690001, y: -7.245285}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_138
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 46
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.9842693, y: 2.5}
+        - {x: -1.9842693, y: -2.2547193}
+        - {x: 2, y: -2.2547193}
+        - {x: 2, y: 2.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_139
+      rect:
+        serializedVersion: 2
+        x: 3111
+        y: 45
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.3281479, y: 2.5}
+        - {x: -1.883812, y: 2.5}
+        - {x: -1.883812, y: -0.9198127}
+        - {x: -0.3281479, y: -2.4764166}
+        - {x: 2, y: -2.4764166}
+        - {x: 2, y: 2.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_140
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 26
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.77191, y: 10}
+        - {x: -12.327574, y: 10}
+        - {x: -12.327574, y: -9.801888}
+        - {x: 12.5, y: -9.801888}
+        - {x: 12.5, y: 4.207546}
+        - {x: 4.7847304, y: 10}
+      - - {x: 9.451722, y: 2.6509423}
+        - {x: 12.5, y: -0.4622652}
+        - {x: 12.5, y: -0.4622652}
+        - {x: 12.5, y: 7.320754}
+        - {x: 11.007386, y: 7.320754}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_141
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 40
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 2}
+        - {x: -2.5, y: -2}
+        - {x: 2.5, y: -2}
+        - {x: 2.5, y: 2}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_142
+      rect:
+        serializedVersion: 2
+        x: 2985
+        y: 43
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.8748866, y: 2}
+        - {x: -1.8748866, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_143
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 33
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 3.5}
+        - {x: -2.5, y: -3.5}
+        - {x: 2.5, y: -3.5}
+        - {x: 2.5, y: 3.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_144
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 32
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.885742, y: 3.5}
+        - {x: -3.885742, y: -2.2452838}
+        - {x: -2.330078, y: -3.5}
+        - {x: 4, y: -3.5}
+        - {x: 4, y: 2.4245276}
+        - {x: 2.3369143, y: 3.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_145
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 37
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 2}
+        - {x: -2.5, y: -1.915094}
+        - {x: 2.5, y: -1.915094}
+        - {x: 2.5, y: 2}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_146
+      rect:
+        serializedVersion: 2
+        x: 2961
+        y: 38
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 2.5}
+        - {x: -2.5, y: -2.4716988}
+        - {x: 2.5, y: -2.4716988}
+        - {x: 2.5, y: 2.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_147
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 27
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 2.5}
+        - {x: -3, y: -2.5}
+        - {x: 3, y: -2.5}
+        - {x: 3, y: 2.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_148
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 31
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 2.5}
+        - {x: -2.5, y: -2.4669812}
+        - {x: 2.5, y: -2.4669812}
+        - {x: 2.5, y: 2.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_149
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 29
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.3173544, y: 2}
+        - {x: -2.3173544, y: -2}
+        - {x: 2.5, y: -2}
+        - {x: 2.5, y: 2}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_150
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 23
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.218211, y: 5}
+        - {x: -4.3295393, y: 4.3207536}
+        - {x: -4.3295393, y: -5}
+        - {x: 4.5, y: -5}
+        - {x: 4.5, y: -3.4622655}
+        - {x: 4.5, y: 5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_151
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 29
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.2216446, y: 2}
+        - {x: -2.2216446, y: -2}
+        - {x: 2.5, y: -2}
+        - {x: 2.5, y: 2}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_152
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 29
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 2}
+        - {x: -3.5, y: -2}
+        - {x: 3.5, y: -2}
+        - {x: 3.5, y: 2}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_153
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 29
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.8925474, y: 2}
+        - {x: -1.8925474, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_154
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 23
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 2}
+        - {x: -2.5, y: -0.34905776}
+        - {x: -0.9984963, y: -1.9056616}
+        - {x: 2.5, y: -1.9056616}
+        - {x: 2.5, y: 2}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_155
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 23
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 2}
+        - {x: -3, y: -1.9056616}
+        - {x: 3, y: -1.9056616}
+        - {x: 3, y: 2}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_156
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 26
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.8896989, y: 2}
+        - {x: -1.8896989, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_157
+      rect:
+        serializedVersion: 2
+        x: 2477
+        y: 23
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 2}
+        - {x: -2.5, y: -1.9056616}
+        - {x: 2.5, y: -1.9056616}
+        - {x: 2.5, y: 2}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_158
+      rect:
+        serializedVersion: 2
+        x: 2549
+        y: 24
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.9560513, y: 3.5}
+        - {x: -6.9560513, y: -1.683963}
+        - {x: -5.4003873, y: -3.2405667}
+        - {x: 7, y: -3.2405667}
+        - {x: 7, y: 2.9858484}
+        - {x: 7, y: 3.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_159
+      rect:
+        serializedVersion: 2
+        x: 2821
+        y: 23
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 3}
+        - {x: -4, y: -1.1273596}
+        - {x: -2.530233, y: -2.6839635}
+        - {x: 4, y: -2.6839635}
+        - {x: 4, y: 3}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_160
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 23
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.8661512, y: 2}
+        - {x: -1.8661512, y: -1.9056616}
+        - {x: 2, y: -1.9056616}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_161
+      rect:
+        serializedVersion: 2
+        x: 2876
+        y: 26
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.9785722, y: 2}
+        - {x: -1.9785722, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_162
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 20
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.4267062, y: 2.5}
+        - {x: -1.9823703, y: 2.5}
+        - {x: -1.9823703, y: -2.5}
+        - {x: 2, y: -2.5}
+        - {x: 2, y: 2.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_163
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 15
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.8720691, y: 4}
+        - {x: -6.983397, y: 4}
+        - {x: -6.983397, y: -3.6792464}
+        - {x: 2.3505871, y: -3.6792464}
+        - {x: 7, y: -0.56603867}
+        - {x: 7, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_164
+      rect:
+        serializedVersion: 2
+        x: 2543
+        y: 20
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 2.5}
+        - {x: -2, y: -2.5}
+        - {x: 2, y: -2.5}
+        - {x: 2, y: -1.0141523}
+        - {x: 2, y: 2.5}
+        - {x: 2, y: 2.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_165
+      rect:
+        serializedVersion: 2
+        x: 2821
+        y: 17
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 2.5}
+        - {x: -2.5, y: -2.4575472}
+        - {x: 2.5, y: -2.4575472}
+        - {x: 2.5, y: 2.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_166
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 15
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.204079, y: 2}
+        - {x: -2.204079, y: -2}
+        - {x: 2.5, y: -2}
+        - {x: 2.5, y: 2}
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

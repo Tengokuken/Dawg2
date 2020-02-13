@@ -1,0 +1,996 @@
+fileFormatVersion: 2
+guid: c4c088275c3781e41b97824f2ee9f8ed
+timeCreated: 1495517616
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dog._0
+    21300002: dog._1
+    21300004: dog._2
+    21300006: dog._3
+    21300008: dog._4
+    21300010: dog._5
+    21300012: dog._6
+    21300014: dog._7
+    21300016: dog._8
+    21300018: dog._9
+    21300020: dog._10
+    21300022: dog._11
+    21300024: dog._12
+    21300026: dog._13
+    21300028: dog._14
+    21300030: dog._15
+    21300032: dog._16
+    21300034: dog._17
+    21300036: dog._18
+    21300038: dog._19
+    21300040: dog._20
+    21300042: dog._21
+    21300044: dog._22
+    21300046: dog._23
+    21300048: dog._24
+    21300050: dog._25
+    21300052: dog._26
+    21300054: dog._27
+    21300056: dog._28
+    21300058: dog._29
+    21300060: dog._30
+    21300062: dog._31
+    21300064: dog._32
+    21300066: dog._33
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dog._0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 256
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 11}
+        - {x: -7.5, y: -11}
+        - {x: 7.5, y: -11}
+        - {x: 7.5, y: 10}
+        - {x: 6.5, y: 11}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dog._1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 256
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 10.5}
+        - {x: -7.5, y: 9.5}
+        - {x: -7.5, y: -10.5}
+        - {x: 7.5, y: -10.5}
+        - {x: 7.5, y: 9.5}
+        - {x: 5.5, y: 10.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dog._2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 256
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 11}
+        - {x: -7.5, y: 10}
+        - {x: -7.5, y: -11}
+        - {x: 7.5, y: -11}
+        - {x: 7.5, y: 10}
+        - {x: 5.5, y: 11}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dog._3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 256
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 10.5}
+        - {x: -7.5, y: 9.5}
+        - {x: -7.5, y: -10.5}
+        - {x: 7.5, y: -10.5}
+        - {x: 7.5, y: 9.5}
+        - {x: 5.5, y: 10.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dog._4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 224
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 11}
+        - {x: -11.5, y: -11}
+        - {x: 11.5, y: -11}
+        - {x: 11.5, y: 11}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dog._5
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 224
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 10.5}
+        - {x: -11.5, y: 9.5}
+        - {x: -11.5, y: -9.5}
+        - {x: -10.5, y: -10.5}
+        - {x: 8.5, y: -10.5}
+        - {x: 11.5, y: -6.5}
+        - {x: 11.5, y: 10.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dog._6
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 224
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 11}
+        - {x: -11.5, y: -11}
+        - {x: 11.5, y: -11}
+        - {x: 11.5, y: 11}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dog._7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 224
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 10.5}
+        - {x: -11.5, y: -10.5}
+        - {x: 11.5, y: -10.5}
+        - {x: 11.5, y: 10.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dog._8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 192
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 13.5}
+        - {x: -7.5, y: -13.5}
+        - {x: 7.5, y: -13.5}
+        - {x: 7.5, y: 13.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dog._9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 192
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 13}
+        - {x: -7.5, y: -13}
+        - {x: 7.5, y: -13}
+        - {x: 7.5, y: 13}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dog._10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 192
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 13.5}
+        - {x: -7.5, y: -13.5}
+        - {x: 7.5, y: -13.5}
+        - {x: 7.5, y: 13.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dog._11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 192
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 13}
+        - {x: -7.5, y: -13}
+        - {x: 7.5, y: -13}
+        - {x: 7.5, y: 13}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dog._12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 160
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 11}
+        - {x: -11.5, y: -11}
+        - {x: 10.5, y: -11}
+        - {x: 11.5, y: -10}
+        - {x: 11.5, y: 11}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dog._13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 160
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 10.5}
+        - {x: -11.5, y: -10.5}
+        - {x: 11.5, y: -10.5}
+        - {x: 11.5, y: 8.5}
+        - {x: 9.5, y: 10.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dog._14
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 160
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 11}
+        - {x: -11.5, y: -11}
+        - {x: 10.5, y: -11}
+        - {x: 11.5, y: -10}
+        - {x: 11.5, y: 11}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dog._15
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 160
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 10.5}
+        - {x: -11.5, y: -9.5}
+        - {x: -10.5, y: -10.5}
+        - {x: 11.5, y: -10.5}
+        - {x: 11.5, y: 8.5}
+        - {x: 8.5, y: 10.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dog._16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 128
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 10}
+        - {x: -7.5, y: -10}
+        - {x: 7.5, y: -10}
+        - {x: 7.5, y: 9}
+        - {x: 6.5, y: 10}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dog._17
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 128
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: -10.5}
+        - {x: 7.5, y: 10.5}
+        - {x: -7.5, y: 10.5}
+        - {x: -7.5, y: -10.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dog._18
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 128
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 11}
+        - {x: -6.5, y: 11}
+        - {x: -7.5, y: 9}
+        - {x: -7.5, y: -11}
+        - {x: 7.5, y: -11}
+        - {x: 7.5, y: 9}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dog._19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 128
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 11}
+        - {x: -6.5, y: 11}
+        - {x: -7.5, y: 9}
+        - {x: -7.5, y: -11}
+        - {x: 7.5, y: -11}
+        - {x: 7.5, y: 9}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dog._20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 96
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 11.5}
+        - {x: -11.5, y: -11.5}
+        - {x: 11.5, y: -11.5}
+        - {x: 11.5, y: 11.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dog._21
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 96
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 11.5}
+        - {x: -11.5, y: 7.5}
+        - {x: -11.5, y: -11.5}
+        - {x: 11.5, y: -11.5}
+        - {x: 11.5, y: 11.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dog._22
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 12}
+        - {x: -12, y: 3}
+        - {x: -12, y: -12}
+        - {x: 11, y: -12}
+        - {x: 12, y: -11}
+        - {x: 12, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dog._23
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 96
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 12}
+        - {x: -10.5, y: 2}
+        - {x: -10.5, y: -12}
+        - {x: 8.5, y: -12}
+        - {x: 10.5, y: -10}
+        - {x: 10.5, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dog._24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 64
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 12}
+        - {x: -10.5, y: 2}
+        - {x: -10.5, y: -12}
+        - {x: 8.5, y: -12}
+        - {x: 10.5, y: -10}
+        - {x: 10.5, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dog._25
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 64
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 12}
+        - {x: -10.5, y: 2}
+        - {x: -10.5, y: -12}
+        - {x: 8.5, y: -12}
+        - {x: 10.5, y: -10}
+        - {x: 10.5, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dog._26
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 64
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 12}
+        - {x: -10.5, y: 2}
+        - {x: -10.5, y: -12}
+        - {x: 10.5, y: -12}
+        - {x: 10.5, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dog._27
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 64
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 11}
+        - {x: -7.5, y: -11}
+        - {x: 7.5, y: -11}
+        - {x: 7.5, y: 11}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dog._28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 33
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 9}
+        - {x: -13.5, y: 8}
+        - {x: -13.5, y: -9}
+        - {x: 13.5, y: -9}
+        - {x: 13.5, y: 9}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dog._29
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 33
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 9}
+        - {x: -13.5, y: -7}
+        - {x: -10.5, y: -9}
+        - {x: 13.5, y: -9}
+        - {x: 13.5, y: 8}
+        - {x: 12.5, y: 9}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dog._30
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 32
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 12}
+        - {x: -10.5, y: 2}
+        - {x: -10.5, y: -12}
+        - {x: 8.5, y: -12}
+        - {x: 10.5, y: -10}
+        - {x: 10.5, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dog._31
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 11.5}
+        - {x: -13, y: -10.5}
+        - {x: -12, y: -11.5}
+        - {x: 12, y: -11.5}
+        - {x: 13, y: -9.5}
+        - {x: 13, y: 11.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dog._32
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 11}
+        - {x: -13.5, y: 11}
+        - {x: -13.5, y: -10}
+        - {x: -11.5, y: -11}
+        - {x: 10.5, y: -11}
+        - {x: 13.5, y: -10}
+        - {x: 13.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dog._33
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 10.5}
+        - {x: -14, y: -5.5}
+        - {x: -12, y: -10.5}
+        - {x: 11, y: -10.5}
+        - {x: 14, y: -9.5}
+        - {x: 14, y: 10.5}
+      tessellationDetail: 0
+    outline:
+    - - {x: -36, y: -119}
+      - {x: -61, y: -119}
+      - {x: -63, y: -120}
+      - {x: -63, y: -144}
+      - {x: -34, y: -144}
+      - {x: -33, y: -141}
+      - {x: -33, y: -121}
+    - - {x: -31, y: -120}
+      - {x: -32, y: -124}
+      - {x: -32, y: -144}
+      - {x: -4, y: -144}
+      - {x: -1, y: -139}
+      - {x: -1, y: -127}
+      - {x: -5, y: -120}
+    - - {x: -1, y: -121}
+      - {x: -1, y: -144}
+      - {x: 29, y: -144}
+      - {x: 31, y: -138}
+      - {x: 31, y: -123}
+      - {x: 29, y: -121}
+    - - {x: 47, y: -86}
+      - {x: 42, y: -88}
+      - {x: 34, y: -101}
+      - {x: 34, y: -110}
+      - {x: 38, y: -114}
+      - {x: 58, y: -114}
+      - {x: 59, y: -112}
+      - {x: 59, y: -86}
+    - - {x: -63, y: -105}
+      - {x: -61, y: -112}
+      - {x: -59, y: -113}
+      - {x: -37, y: -113}
+      - {x: -32, y: -112}
+      - {x: -32, y: -98}
+      - {x: -34, y: -92}
+      - {x: -45, y: -91}
+      - {x: -55, y: -91}
+      - {x: -63, y: -96}
+    - - {x: -31, y: -91}
+      - {x: -31, y: -106}
+      - {x: -29, y: -112}
+      - {x: -27, y: -113}
+      - {x: -5, y: -113}
+      - {x: 0, y: -112}
+      - {x: 0, y: -91}
+    - - {x: -48, y: -54}
+      - {x: -54, y: -56}
+      - {x: -62, y: -72}
+      - {x: -62, y: -78}
+      - {x: -59, y: -82}
+      - {x: -41, y: -82}
+      - {x: -37, y: -78}
+      - {x: -37, y: -55}
+      - {x: -38, y: -54}
+    - - {x: -17, y: -54}
+      - {x: -22, y: -56}
+      - {x: -30, y: -68}
+      - {x: -30, y: -79}
+      - {x: -27, y: -82}
+      - {x: -11, y: -82}
+      - {x: -5, y: -80}
+      - {x: -5, y: -54}
+    - - {x: 12, y: -54}
+      - {x: 2, y: -69}
+      - {x: 2, y: -78}
+      - {x: 7, y: -82}
+      - {x: 19, y: -82}
+      - {x: 27, y: -80}
+      - {x: 27, y: -57}
+      - {x: 26, y: -54}
+    - - {x: 43, y: -56}
+      - {x: 39, y: -62}
+      - {x: 39, y: -76}
+      - {x: 42, y: -81}
+      - {x: 45, y: -82}
+      - {x: 56, y: -82}
+      - {x: 58, y: -81}
+      - {x: 58, y: -62}
+      - {x: 56, y: -56}
+    - - {x: -62, y: -23}
+      - {x: -62, y: -49}
+      - {x: -58, y: -50}
+      - {x: -37, y: -50}
+      - {x: -35, y: -45}
+      - {x: -35, y: -23}
+    - - {x: -8, y: -23}
+      - {x: -18, y: -23}
+      - {x: -31, y: -29}
+      - {x: -31, y: -49}
+      - {x: -27, y: -50}
+      - {x: -5, y: -50}
+      - {x: -4, y: -46}
+      - {x: -4, y: -25}
+    - - {x: 13, y: -22}
+      - {x: 0, y: -35}
+      - {x: 0, y: -49}
+      - {x: 2, y: -50}
+      - {x: 28, y: -50}
+      - {x: 28, y: -23}
+      - {x: 24, y: -22}
+    - - {x: 47, y: -22}
+      - {x: 34, y: -40}
+      - {x: 34, y: -46}
+      - {x: 37, y: -50}
+      - {x: 53, y: -50}
+      - {x: 59, y: -48}
+      - {x: 59, y: -22}
+    - - {x: -55, y: 6}
+      - {x: -57, y: 0}
+      - {x: -57, y: -17}
+      - {x: -56, y: -18}
+      - {x: -42, y: -18}
+      - {x: -38, y: -17}
+      - {x: -38, y: 1}
+      - {x: -44, y: 6}
+    - - {x: -22, y: 7}
+      - {x: -25, y: 1}
+      - {x: -25, y: -14}
+      - {x: -22, y: -18}
+      - {x: -12, y: -18}
+      - {x: -6, y: -16}
+      - {x: -6, y: 5}
+      - {x: -12, y: 7}
+    - - {x: 8, y: 8}
+      - {x: 7, y: 6}
+      - {x: 7, y: -15}
+      - {x: 8, y: -18}
+      - {x: 26, y: -18}
+      - {x: 26, y: 6}
+      - {x: 22, y: 8}
+    - - {x: 45, y: 8}
+      - {x: 39, y: 7}
+      - {x: 39, y: -17}
+      - {x: 41, y: -18}
+      - {x: 58, y: -18}
+      - {x: 58, y: 6}
+      - {x: 55, y: 8}
+    - - {x: -58, y: 40}
+      - {x: -62, y: 38}
+      - {x: -62, y: 26}
+      - {x: -57, y: 14}
+      - {x: -36, y: 14}
+      - {x: -35, y: 15}
+      - {x: -35, y: 40}
+    - - {x: -28, y: 39}
+      - {x: -30, y: 38}
+      - {x: -30, y: 23}
+      - {x: -25, y: 14}
+      - {x: -6, y: 14}
+      - {x: -3, y: 17}
+      - {x: -3, y: 35}
+      - {x: -10, y: 39}
+    - - {x: 6, y: 40}
+      - {x: 2, y: 38}
+      - {x: 2, y: 26}
+      - {x: 7, y: 14}
+      - {x: 27, y: 14}
+      - {x: 29, y: 22}
+      - {x: 29, y: 34}
+      - {x: 27, y: 40}
+    - - {x: 46, y: 39}
+      - {x: 36, y: 39}
+      - {x: 34, y: 35}
+      - {x: 34, y: 26}
+      - {x: 36, y: 18}
+      - {x: 39, y: 14}
+      - {x: 55, y: 14}
+      - {x: 61, y: 16}
+      - {x: 61, y: 34}
+      - {x: 56, y: 37}
+    - - {x: -56, y: 77}
+      - {x: -57, y: 71}
+      - {x: -57, y: 47}
+      - {x: -56, y: 46}
+      - {x: -44, y: 46}
+      - {x: -38, y: 48}
+      - {x: -38, y: 75}
+      - {x: -42, y: 77}
+    - - {x: -25, y: 50}
+      - {x: -22, y: 46}
+      - {x: -9, y: 46}
+      - {x: -6, y: 47}
+      - {x: -6, y: 73}
+      - {x: -9, y: 76}
+      - {x: -20, y: 76}
+      - {x: -25, y: 74}
+    - - {x: 8, y: 77}
+      - {x: 7, y: 71}
+      - {x: 7, y: 48}
+      - {x: 13, y: 46}
+      - {x: 23, y: 46}
+      - {x: 26, y: 49}
+      - {x: 26, y: 75}
+      - {x: 22, y: 77}
+    - - {x: 41, y: 76}
+      - {x: 39, y: 74}
+      - {x: 39, y: 52}
+      - {x: 40, y: 46}
+      - {x: 54, y: 46}
+      - {x: 58, y: 50}
+      - {x: 58, y: 74}
+      - {x: 52, y: 76}
+    - - {x: -53, y: 104}
+      - {x: -62, y: 100}
+      - {x: -62, y: 86}
+      - {x: -61, y: 82}
+      - {x: -56, y: 78}
+      - {x: -39, y: 78}
+      - {x: -35, y: 83}
+      - {x: -35, y: 102}
+      - {x: -36, y: 104}
+    - - {x: -22, y: 103}
+      - {x: -30, y: 98}
+      - {x: -30, y: 87}
+      - {x: -29, y: 82}
+      - {x: -24, y: 78}
+      - {x: -7, y: 78}
+      - {x: -3, y: 86}
+      - {x: -3, y: 103}
+    - - {x: 11, y: 104}
+      - {x: 2, y: 100}
+      - {x: 2, y: 86}
+      - {x: 3, y: 82}
+      - {x: 8, y: 78}
+      - {x: 25, y: 78}
+      - {x: 29, y: 83}
+      - {x: 29, y: 102}
+      - {x: 28, y: 104}
+    - - {x: 42, y: 103}
+      - {x: 34, y: 98}
+      - {x: 34, y: 79}
+      - {x: 38, y: 78}
+      - {x: 59, y: 78}
+      - {x: 61, y: 83}
+      - {x: 61, y: 103}
+    - - {x: -55, y: 136}
+      - {x: -57, y: 131}
+      - {x: -57, y: 111}
+      - {x: -53, y: 110}
+      - {x: -38, y: 110}
+      - {x: -38, y: 132}
+      - {x: -45, y: 136}
+    - - {x: -12, y: 135}
+      - {x: -19, y: 135}
+      - {x: -25, y: 127}
+      - {x: -25, y: 114}
+      - {x: -20, y: 110}
+      - {x: -12, y: 110}
+      - {x: -6, y: 113}
+      - {x: -6, y: 126}
+    - - {x: 12, y: 136}
+      - {x: 7, y: 129}
+      - {x: 7, y: 114}
+      - {x: 12, y: 110}
+      - {x: 23, y: 110}
+      - {x: 26, y: 114}
+      - {x: 26, y: 130}
+      - {x: 22, y: 136}
+    - - {x: 50, y: 135}
+      - {x: 44, y: 135}
+      - {x: 39, y: 127}
+      - {x: 39, y: 114}
+      - {x: 42, y: 110}
+      - {x: 52, y: 110}
+      - {x: 58, y: 112}
+      - {x: 58, y: 131}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

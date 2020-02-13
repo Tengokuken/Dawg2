@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Mango
+  m_Controller: {fileID: 9100000, guid: 358199b45f2f7524685de696b77e1981, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 7e09a4806e5009741803190caa693653, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 797f7cb5eb38f2b48b865eb5b8095fef, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 96bbe784d167b0a4897a44da44e8f51b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 832bb0134ed632548af5bfa044d187ea, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b5d3befd590d632469f119c57aac484a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4fb5f68a3eb15d64cb56dc375cd0e538, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a9d7e11077e1b2944bfde329f8ca43a5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: bb1879fc5b1945e49b3b07e149378baa, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 662add709ec373e47a8ccd6a2a2ed325, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3db45aa3a2343d14fb4dc609ffb16918, type: 2}

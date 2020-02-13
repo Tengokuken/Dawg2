@@ -1,0 +1,300 @@
+fileFormatVersion: 2
+guid: 9ade47ef07f92a046aad2cb87ff3e399
+timeCreated: 1496633482
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 725s_by_othienka-d7qxipg_0
+    21300002: 725s_by_othienka-d7qxipg_1
+    21300004: 725s_by_othienka-d7qxipg_2
+    21300006: 725s_by_othienka-d7qxipg_3
+    21300008: 725s_by_othienka-d7qxipg_4
+    21300010: 725s_by_othienka-d7qxipg_5
+    21300012: 725s_by_othienka-d7qxipg_6
+    21300014: 725s_by_othienka-d7qxipg_7
+    21300016: 725s_by_othienka-d7qxipg_8
+    21300018: 725s_by_othienka-d7qxipg_9
+    21300020: 725s_by_othienka-d7qxipg_10
+    21300022: 725s_by_othienka-d7qxipg_11
+    21300024: 725s_by_othienka-d7qxipg_12
+    21300026: 725s_by_othienka-d7qxipg_13
+    21300028: 725s_by_othienka-d7qxipg_14
+    21300030: 725s_by_othienka-d7qxipg_15
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 725s_by_othienka-d7qxipg_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 196
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 725s_by_othienka-d7qxipg_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 194
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 725s_by_othienka-d7qxipg_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 196
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 725s_by_othienka-d7qxipg_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 194
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 725s_by_othienka-d7qxipg_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 132
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 725s_by_othienka-d7qxipg_5
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 130
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 725s_by_othienka-d7qxipg_6
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 132
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 725s_by_othienka-d7qxipg_7
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 130
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 725s_by_othienka-d7qxipg_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 68
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 725s_by_othienka-d7qxipg_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 66
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 725s_by_othienka-d7qxipg_10
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 68
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 725s_by_othienka-d7qxipg_11
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 66
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 725s_by_othienka-d7qxipg_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 4
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 725s_by_othienka-d7qxipg_13
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 725s_by_othienka-d7qxipg_14
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 4
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 725s_by_othienka-d7qxipg_15
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 2
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

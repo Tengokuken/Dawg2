@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: a19c73e67ddf3ad4a9b7ba5a970eabf6
+  - enabled: 1
+    path: Assets/Scenes/HelpMenu.unity
+    guid: fc97d2f7d9d37174086733d298dc4fe0
+  - enabled: 1
+    path: Assets/Scenes/OptionsMenu.unity
+    guid: 82301676bbdad35478653d694bc8cfc2
+  - enabled: 1
+    path: Assets/Scenes/ModeSelect.unity
+    guid: a4e690fd1bd6d8642a0bc0200b18fad5
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelect.unity
+    guid: 438bf7eedbec8c646bef1e506cbaf8cb
+  - enabled: 1
+    path: Assets/Scenes/CharacterStats.unity
+    guid: 07d01a0641afcbf4ba09aa7e49a65d92
+  - enabled: 1
+    path: Assets/Scenes/HighScores.unity
+    guid: 221a32ae9d0892147a2b547a832ed678
+  - enabled: 1
+    path: Assets/Scenes/Cut Scenes.unity
+    guid: e4938e57fd1f5e34cba4ae14fb3140aa
+  - enabled: 1
+    path: Assets/Scenes/GameScreen/GameScreen.unity
+    guid: 395a03772a792964b8649156851ae09b
+  - enabled: 1
+    path: Assets/Scenes/GameScreen/GameScreenDoge.unity
+    guid: a6e45bad1a48a93468ebbff2e94c819b
+  - enabled: 1
+    path: Assets/Scenes/GameScreen/GameScreenGabe.unity
+    guid: 924f1d56812cb9c4482420a4e6c4668e
+  - enabled: 1
+    path: Assets/Scenes/GameScreen/GameScreenMango.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/GameScreen/GameScreen Floor 2.unity
+    guid: 84c3d300a27294f49a20f973cf8890a6
+  - enabled: 1
+    path: Assets/Scenes/GameScreen/GameScreen Floor 3.unity
+    guid: 9a2104b5d21597043b5e8e779a090d79
+  - enabled: 1
+    path: Assets/Scenes/GameScreen/GameScreen Floor 4.unity
+    guid: 52a653447a1817f4c98801c0eb5d96ba
+  - enabled: 1
+    path: Assets/Scenes/GameScreen/GameScreen Floor 5.unity
+    guid: 0dd156bb45cbb2c45a1742c63a49817f
+  - enabled: 1
+    path: Assets/Scenes/GameScreen/GameScreen Floor 6.unity
+    guid: e28258bb2d556cb4faf9ba451fdf7ebf
+  - enabled: 1
+    path: Assets/Scenes/Donezo.unity
+    guid: b68f07baddf56864cbe2a334caaaf981
+  - enabled: 1
+    path: Assets/Scenes/Money Dog 2.unity
+    guid: 598356de09825b4458eb38a534f82811
+  - enabled: 1
+    path: Assets/Scenes/Dog of Wisdom.unity
+    guid: 93e04b7a4fd01994e9f8ed5de787bfc6
